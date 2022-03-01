@@ -2,7 +2,11 @@
 title: "RiskScore"
 author: "Qian Liu"
 date: "2/26/2022"
-output: html_document
+output: 
+  html_document: 
+    keep_md: yes
+editor_options: 
+  chunk_output_type: inline
 ---
 
 ```{r setup, include=FALSE}
