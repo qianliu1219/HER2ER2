@@ -1,0 +1,79 @@
+---
+title: "CCsubtyping"
+author: "Qian Liu"
+date: "2/26/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library("devtools")
+source_url("https://raw.githubusercontent.com/obigriffith/biostar-tutorials/master/Heatmaps/heatmap.3.R")
+if (!require("gplots")) {
+  install.packages("gplots", dependencies = TRUE)
+  library(gplots)
+}
+if (!require("RColorBrewer")) {
+  install.packages("RColorBrewer", dependencies = TRUE)
+  library(RColorBrewer)
+}
+library(CancerSubtypes)
+```
+
+## Import data
+
+423 normalized gene expressions for 123 ER+/HER2+ TCGA-BRCA patients
+
+```{r,echo=TRUE,message=FALSE}
+
+setwd("~/Desktop/projects/HER2+ER2+Subyping/data")
+tc.cc.data<-read.csv("Supplementary Table 1.csv",row.names=1)
+tc.cc.data.t<-as.data.frame(t(tc.cc.data))
+print(tc.cc.data.t[1:5,1:5])
+```
+## ExecuteCC
+
+```{r,results='hide',echo=TRUE,message=FALSE}
+set.seed(100)
+result=ExecuteCC(clusterNum=2,d=tc.cc.data.t,maxK=10,clusterAlg="hc",distance="pearson",title="GBM")
+```
+
+## Silhouette Plot
+```{r,echo=TRUE}
+sil<-silhouette_SimilarityMatrix(result$group, result$distanceMatrix)
+plot(sil)
+```
+
+## Survival Analysis
+
+```{r,echo=TRUE}
+setwd("~/Desktop/projects/HER2+ER2+Subyping/data")
+tc.surv.data<-read.csv("TCGA_survival.csv",row.names = 1)
+print(tc.surv.data[1:5,])
+
+```
+
+```{r,echo=TRUE}
+distanceMatrix=result$distanceMatrix
+p_value=survAnalysis(mainTitle="GBM",tc.surv.data$T,tc.surv.data$vital_status,result$group,distanceMatrix,similarity=TRUE)
+```
+
+## Heatmap
+
+```{r,echo=TRUE,message=FALSE,results='hide',warning=FALSE}
+
+TC_ht<-rbind(result$group,tc.cc.data)
+TC_ht_sort<-TC_ht[,order(TC_ht[1,])]
+col<-ifelse(TC_ht_sort[1,]==1,"green","pink")
+mydist=function(c) {dist(c,method="euclidian")}
+myclust=function(c) {hclust(c,method="average")}
+hm <- heatmap.3(TC_ht_sort[-1,],scale = "row",dendrogram = "none",
+                key=T,keysize=2,hclustfun=myclust, distfun=mydist,
+                ColSideColors=t(col),
+                ColSideColorsSize=1,Colv = F,Rowv = T,
+                col = colorRampPalette(c("black","darkblue","blue3","blue2","blue1","orange","red","red1","red2","red3","darkred")))
+```
+
+
+
+

@@ -1,0 +1,113 @@
+---
+title: "RiskScore"
+author: "Qian Liu"
+date: "2/26/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(caret)
+library(ggfortify)
+library(sva)
+library(survival)
+library(RTCGA)
+library(survminer)
+library(broom)
+```
+
+Import and combine 6 gene expression data for 123 TCGA and 104 METABRIC HER2+ER+ samples 
+
+```{r}
+setwd("~/Desktop/projects/HER2+ER2+Subyping/data")
+tc.gene6.rs.data<-read.csv("TCGA_gene6_data.csv",row.names = 1)
+tc.gene6.rs.scale.data<-apply(tc.gene6.rs.data[,-1], MARGIN = 2, FUN = function(X) (X - min(X))/diff(range(X)))
+mb.gene6.rs.data<-read.csv("MB_gene6_data.csv",row.names = 1)
+mb.gene6.rs.scale.data<-apply(mb.gene6.rs.data, MARGIN = 2, FUN = function(X) (X - min(X))/diff(range(X)))
+rs.data<-rbind(tc.gene6.rs.scale.data,mb.gene6.rs.scale.data)
+
+ntc<-nrow(tc.gene6.rs.data)
+nmb<-nrow(mb.gene6.rs.data)
+rs.data.source<-c(rep("1",ntc),rep("2",nmb))
+```
+
+PCA plot of combined data
+
+```{r}
+pca_res <- prcomp(rs.data, scale. = TRUE)
+autoplot(pca_res, data = rs.data, colour = rs.data.source)
+```
+
+Remove batch effect
+```{r,message=FALSE}
+combat.data = ComBat(dat=t(rs.data), batch=rs.data.source, mod=NULL, par.prior=TRUE, prior.plots=FALSE)
+```
+
+PCA plot of batch effect removed data
+
+```{r}
+pca_res <- prcomp(t(combat.data), scale. = TRUE)
+autoplot(pca_res, data = t(combat.data), colour = rs.data.source)
+```
+
+
+```{r}
+cluster.code<-as.factor(as.character(ifelse(tc.gene6.rs.data$cluster==2,-1,1)))
+
+tc.gene6.rs.br.data<-as.data.frame(t(combat.data[,1:ntc]))
+tc.gene6.rs.br.data$cluster<-cluster.code
+
+mb.gene6.rs.br.data<-as.data.frame(t(combat.data[,(ntc+1):(ntc+nmb)]))
+set.seed(123) 
+
+library(e1071)
+model_svm <- svm(cluster ~ RPS15+NDUFB7+RPS9+RPL13+RPLP2+FAU, data = tc.gene6.rs.br.data,probability = TRUE)
+mb.risk.score<-predict (model_svm, mb.gene6.rs.br.data,probability=TRUE,decision.values = T)
+mb.risk.score<-attr(mb.risk.score,"decision.values")[,1]
+```
+
+```{r}
+setwd("~/Desktop/projects/HER2+ER2+Subyping/data")
+mb.surv.data<-read.csv("MB_survival.csv",row.names = 1)
+
+print(mb.surv.data[1:5,])
+print(mb.risk.score)
+
+mb.surv.data<-cbind(mb.surv.data,mb.risk.score[order(names(mb.risk.score))])
+colnames(mb.surv.data)[3]<-"risk.score"
+print(mb.surv.data[1:5,])
+fit <- survfit(Surv(risk.score, vital_status) ~ 1, data = mb.surv.data)
+
+fit.res <- as.data.frame(tidy(fit))
+fit.res
+
+
+lm.res = lm(estimate~ poly(time, 2, raw = TRUE), data = fit.res)
+
+#plot(fit.res$time,fit.res$estimate,xlim=c(min(mb.risk.score),max(mb.risk.score)),cex = 0.5)
+
+pred <- predict(lm.res)
+ix <- sort(fit.res$time, index.return=T)$ix
+
+#add polynomial curve to plot
+plot(fit.res$time[ix], pred[ix], type="l",col='black', lwd=2,ylim=c(-0.2,1))
+newx <- seq(min(fit.res$time), max(fit.res$time), length.out=length(fit.res$time))
+preds <- predict(lm.res, newdata = data.frame(time=newx), interval = 'confidence')
+lines(newx, preds[ ,3], lty = 'dashed', col = 'blue')
+lines(newx, preds[ ,2], lty = 'dashed', col = 'blue')
+
+quantiles <- quantile(fit.res$time, prob=c( 0.25,  0.75))
+
+abline(v=quantiles)
+
+par(new = TRUE)
+d <- density(fit.res$time[ix]) # returns the density data
+plot(d,axes=F,ylim=c(-0.2,3),xlim=c(min(mb.risk.score),max(mb.risk.score)),xlab="", ylab="",lwd=0.5)
+
+#lines(fit.res$time,fit.res$conf.high,type="l",lty=2)
+#lines(fit.res$time,fit.res$conf.low,type="l",lty=2)
+hist(fit.res$time, breaks=20000, main="density",xlim=c(min(mb.risk.score),max(mb.risk.score)))
+
+
+```
+
