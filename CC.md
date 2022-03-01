@@ -77,8 +77,8 @@ p_value=survAnalysis(mainTitle="GBM",tc.surv.data$T,tc.surv.data$vital_status,re
 ## survdiff(formula = Surv(time, status) ~ group)
 ## 
 ##          N Observed Expected (O-E)^2/E (O-E)^2/V
-## group=1 46        2     5.66      2.37      4.63
-## group=2 77       10     6.34      2.11      4.63
+## group=1 47        2     5.66      2.37      4.63
+## group=2 76       10     6.34      2.11      4.63
 ## 
 ##  Chisq= 4.6  on 1 degrees of freedom, p= 0.03
 ```
