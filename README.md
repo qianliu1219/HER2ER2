@@ -11,7 +11,7 @@ This is the source code for our *Development and validation of a prognostic 15-g
 > -Gene differential analysis are done among the identified subtypes to identify most differentially expressed genes. 
 Genes that are significant in both Cox regression analysis and gene expression differential analysis are selected to form the proposed gene signature. 
 > - Validations of this gene signature are performed on METABRIC and GSE149283 HER2+/ER+ cohorts. 
->> - An XGBoost classifier is trained using the proposed gene signature on TCGA-BRCA data, then applied to assign METABRIC and GSE149283 BCs into two subgroups. 
->> - For METABRIC, survival difference of the predicted subgroups is tested. 
->> - For GSE149283, the drug response difference between the predicted subgroups is tested. 
+    - An XGBoost classifier is trained using the proposed gene signature on TCGA-BRCA data, then applied to assign METABRIC and GSE149283 BCs into two subgroups. 
+    - For METABRIC, survival difference of the predicted subgroups is tested. 
+    - For GSE149283, the drug response difference between the predicted subgroups is tested. 
 
