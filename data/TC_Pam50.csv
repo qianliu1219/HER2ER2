@@ -1,0 +1,826 @@
+﻿ID,Gender,Age,ER,PR,HER2,PAM50
+TCGA-A2-A0T2,FEMALE,66,Negative,Negative,Negative,Basal-like
+TCGA-A2-A04P,FEMALE,36,Negative,Negative,Negative,Basal-like
+TCGA-A1-A0SK,FEMALE,54,Negative,Negative,Negative,Basal-like
+TCGA-A2-A0CM,FEMALE,40,Negative,Negative,Negative,Basal-like
+TCGA-AR-A1AR,FEMALE,50,Negative,Negative,Negative,Basal-like
+TCGA-B6-A0WX,FEMALE,40,Negative,Negative,Negative,Basal-like
+TCGA-BH-A1F0,FEMALE,80,Negative,Indeterminate,Negative,Basal-like
+TCGA-B6-A0I6,FEMALE,49,Negative,Negative,Not Available,Basal-like
+TCGA-BH-A18V,FEMALE,48,Negative,Negative,Negative,Basal-like
+TCGA-BH-A18Q,FEMALE,56,Negative,Negative,Negative,Basal-like
+TCGA-BH-A18K,FEMALE,46,Positive,Positive,Negative,Basal-like
+TCGA-BH-A0HL,FEMALE,56,Positive,Positive,Negative,Basal-like
+TCGA-BH-A0E0,FEMALE,38,Negative,Negative,Negative,Basal-like
+TCGA-BH-A0RX,FEMALE,59,Negative,Negative,Negative,Basal-like
+TCGA-A7-A13D,FEMALE,46,Negative,Positive,Negative,Basal-like
+TCGA-BH-A0E6,FEMALE,69,Negative,Negative,Negative,Basal-like
+TCGA-AO-A0J4,FEMALE,41,Negative,Negative,Negative,Basal-like
+TCGA-A7-A0CE,FEMALE,57,Negative,Negative,Negative,Basal-like
+TCGA-A7-A13E,FEMALE,62,Positive,Negative,Negative,Basal-like
+TCGA-A7-A0DA,FEMALE,62,Negative,Negative,Negative,Basal-like
+TCGA-D8-A142,FEMALE,74,Negative,Negative,Negative,Basal-like
+TCGA-D8-A143,FEMALE,51,Negative,Negative,Negative,Basal-like
+TCGA-AQ-A04J,FEMALE,45,Negative,Negative,Negative,Basal-like
+TCGA-BH-A0HN,FEMALE,67,Positive,Positive,Negative,Basal-like
+TCGA-A2-A0T0,FEMALE,59,Negative,Negative,Negative,Basal-like
+TCGA-A2-A0YE,FEMALE,48,Negative,Negative,Negative,Basal-like
+TCGA-A2-A0YJ,FEMALE,39,Positive,Negative,Negative,Basal-like
+TCGA-A2-A0D0,FEMALE,60,Negative,Negative,Negative,Basal-like
+TCGA-A2-A04U,FEMALE,47,Negative,Negative,Negative,Basal-like
+TCGA-AO-A0J6,FEMALE,61,Negative,Negative,Negative,Basal-like
+TCGA-A2-A0YM,FEMALE,67,Negative,Negative,Negative,Basal-like
+TCGA-A2-A0D2,FEMALE,45,Negative,Negative,Negative,Basal-like
+TCGA-BH-A0B3,FEMALE,53,Negative,Negative,Negative,Basal-like
+TCGA-A2-A04Q,FEMALE,48,Negative,Negative,Negative,Basal-like
+TCGA-A2-A0SX,FEMALE,48,Negative,Negative,Negative,Basal-like
+TCGA-AO-A0JL,FEMALE,59,Negative,Negative,Negative,Basal-like
+TCGA-AO-A12F,FEMALE,36,Negative,Negative,Negative,Basal-like
+TCGA-BH-A0B9,FEMALE,44,Negative,Negative,Negative,Basal-like
+TCGA-A2-A04T,FEMALE,62,Negative,Negative,Negative,Basal-like
+TCGA-B6-A0RT,FEMALE,39,Negative,Negative,Negative,Basal-like
+TCGA-AO-A128,FEMALE,61,Negative,Negative,Negative,Basal-like
+TCGA-AO-A129,FEMALE,29,Negative,Negative,Negative,Basal-like
+TCGA-AO-A124,FEMALE,38,Negative,Negative,Negative,Basal-like
+TCGA-B6-A0RU,FEMALE,49,Negative,Negative,Negative,Basal-like
+TCGA-B6-A0IQ,FEMALE,40,Negative,Negative,Negative,Basal-like
+TCGA-B6-A0I2,FEMALE,45,Performed but Not Available,Performed but Not Available,Negative,Basal-like
+TCGA-B6-A0IJ,FEMALE,42,Positive,Positive,Negative,Basal-like
+TCGA-B6-A0X1,FEMALE,48,Negative,Negative,Not Available,Basal-like
+TCGA-B6-A0RE,FEMALE,61,Negative,Negative,Negative,Basal-like
+TCGA-A2-A0ST,FEMALE,62,Negative,Negative,Negative,Basal-like
+TCGA-AR-A0TP,FEMALE,43,Positive,Negative,Negative,Basal-like
+TCGA-A1-A0SO,FEMALE,67,Negative,Negative,Negative,Basal-like
+TCGA-A8-A07C,FEMALE,57,Negative,Negative,Negative,Basal-like
+TCGA-A8-A07O,FEMALE,51,Negative,Negative,Negative,Basal-like
+TCGA-A8-A07R,FEMALE,80,Negative,Negative,Equivocal,Basal-like
+TCGA-A8-A07U,FEMALE,66,Negative,Positive,Negative,Basal-like
+TCGA-A8-A08H,FEMALE,66,Positive,Positive,Positive,Basal-like
+TCGA-A8-A08R,FEMALE,52,Negative,Negative,Negative,Basal-like
+TCGA-AN-A04D,FEMALE,58,Negative,Negative,Negative,Basal-like
+TCGA-AN-A0AL,FEMALE,41,Negative,Negative,Negative,Basal-like
+TCGA-AN-A0AR,FEMALE,55,Negative,Negative,Negative,Basal-like
+TCGA-AN-A0AT,FEMALE,62,Negative,Negative,Negative,Basal-like
+TCGA-AN-A0FJ,FEMALE,59,Positive,Negative,Negative,Basal-like
+TCGA-AN-A0FL,FEMALE,62,Negative,Negative,Negative,Basal-like
+TCGA-AN-A0FX,FEMALE,52,Negative,Negative,Negative,Basal-like
+TCGA-AN-A0G0,FEMALE,56,Negative,Negative,Negative,Basal-like
+TCGA-AN-A0XU,FEMALE,54,Negative,Negative,Negative,Basal-like
+TCGA-AR-A0TS,FEMALE,46,Negative,Negative,Negative,Basal-like
+TCGA-AR-A0TU,FEMALE,35,Negative,Negative,Negative,Basal-like
+TCGA-AR-A0U0,FEMALE,73,Negative,Negative,Negative,Basal-like
+TCGA-AR-A0U1,FEMALE,36,Negative,Negative,Negative,Basal-like
+TCGA-AR-A0U4,FEMALE,54,Negative,Negative,Negative,Basal-like
+TCGA-AR-A1AH,FEMALE,51,Positive,Negative,Negative,Basal-like
+TCGA-AR-A1AI,FEMALE,47,Negative,Negative,Negative,Basal-like
+TCGA-AR-A1AJ,FEMALE,83,Positive,Negative,Negative,Basal-like
+TCGA-AR-A1AQ,FEMALE,49,Negative,Negative,Negative,Basal-like
+TCGA-AR-A1AY,FEMALE,65,Negative,Negative,Negative,Basal-like
+TCGA-BH-A0AV,FEMALE,52,Negative,Negative,Negative,Basal-like
+TCGA-BH-A0BG,FEMALE,73,Negative,Negative,Negative,Basal-like
+TCGA-BH-A0BL,FEMALE,35,Negative,Negative,Negative,Basal-like
+TCGA-BH-A0BW,FEMALE,71,Negative,Negative,Negative,Basal-like
+TCGA-BH-A0DL,FEMALE,64,Positive,Negative,Negative,Basal-like
+TCGA-BH-A0WA,FEMALE,82,Negative,Negative,Negative,Basal-like
+TCGA-BH-A18G,FEMALE,81,Negative,Negative,Negative,Basal-like
+TCGA-C8-A12K,FEMALE,80,Not Performed,Not Performed,Negative,Basal-like
+TCGA-C8-A12V,FEMALE,55,Negative,Negative,Negative,Basal-like
+TCGA-C8-A131,FEMALE,82,Negative,Negative,Negative,Basal-like
+TCGA-C8-A134,FEMALE,52,Negative,Negative,Negative,Basal-like
+TCGA-D8-A147,FEMALE,45,Negative,Negative,Negative,Basal-like
+TCGA-E2-A14N,FEMALE,37,Negative,Negative,Negative,Basal-like
+TCGA-E2-A14R,FEMALE,62,Negative,Negative,Negative,Basal-like
+TCGA-E2-A14X,FEMALE,55,Negative,Negative,Negative,Basal-like
+TCGA-E2-A14Y,FEMALE,35,Positive,Positive,Positive,Basal-like
+TCGA-E2-A150,FEMALE,48,Negative,Negative,Negative,Basal-like
+TCGA-E2-A158,FEMALE,43,Negative,Negative,Negative,Basal-like
+TCGA-E2-A159,FEMALE,50,Negative,Negative,Negative,Basal-like
+TCGA-E2-A1AZ,FEMALE,63,Negative,Negative,Negative,Basal-like
+TCGA-E2-A1B5,FEMALE,46,Positive,Positive,Negative,Basal-like
+TCGA-A8-A08L,FEMALE,89,Positive,Negative,Negative,HER2-enriched
+TCGA-BH-A1EV,FEMALE,45,Positive,Positive,NA,HER2-enriched
+TCGA-B6-A0I9,FEMALE,62,Indeterminate,Positive,Positive,HER2-enriched
+TCGA-A8-A09X,FEMALE,62,Negative,Negative,Negative,HER2-enriched
+TCGA-B6-A0IK,FEMALE,63,Negative,Negative,Negative,HER2-enriched
+TCGA-BH-A18P,FEMALE,60,Positive,Negative,Negative,HER2-enriched
+TCGA-A8-A08J,FEMALE,52,Positive,Negative,Negative,HER2-enriched
+TCGA-BH-A18R,FEMALE,50,Indeterminate,Negative,Positive,HER2-enriched
+TCGA-AR-A1AT,FEMALE,62,Positive,Positive,Positive,HER2-enriched
+TCGA-B6-A0RS,FEMALE,38,Negative,Negative,Negative,HER2-enriched
+TCGA-BH-A0DZ,FEMALE,43,Positive,Positive,Positive,HER2-enriched
+TCGA-A2-A0T1,FEMALE,55,Negative,Negative,Positive,HER2-enriched
+TCGA-AO-A0J2,FEMALE,41,Negative,Negative,Negative,HER2-enriched
+TCGA-BH-A0AW,FEMALE,56,Positive,Negative,Positive,HER2-enriched
+TCGA-BH-A0EE,FEMALE,68,Negative,Negative,Positive,HER2-enriched
+TCGA-A2-A0D1,FEMALE,76,Negative,Negative,Positive,HER2-enriched
+TCGA-AO-A03N,FEMALE,59,Positive,Positive,Negative,HER2-enriched
+TCGA-A2-A0CY,FEMALE,63,Positive,Positive,Negative,HER2-enriched
+TCGA-A2-A04X,FEMALE,34,Positive,Positive,Positive,HER2-enriched
+TCGA-A2-A0CX,FEMALE,52,Positive,Negative,Positive,HER2-enriched
+TCGA-A2-A04W,FEMALE,50,Negative,Negative,Positive,HER2-enriched
+TCGA-AO-A12D,FEMALE,43,Negative,Negative,Positive,HER2-enriched
+TCGA-A2-A0CL,FEMALE,37,Positive,Positive,Negative,HER2-enriched
+TCGA-AO-A0JE,FEMALE,53,Negative,Negative,Positive,HER2-enriched
+TCGA-A2-A0EQ,FEMALE,64,Negative,Negative,Positive,HER2-enriched
+TCGA-AO-A03L,FEMALE,34,Positive,Positive,Negative,HER2-enriched
+TCGA-B6-A0RH,FEMALE,51,Positive,Positive,Positive,HER2-enriched
+TCGA-A8-A075,FEMALE,42,Positive,Positive,Negative,HER2-enriched
+TCGA-A8-A076,FEMALE,66,Positive,Positive,Positive,HER2-enriched
+TCGA-A8-A07B,FEMALE,69,Positive,Positive,Positive,HER2-enriched
+TCGA-A8-A07I,FEMALE,69,Positive,Negative,Positive,HER2-enriched
+TCGA-A8-A081,FEMALE,80,Positive,Positive,Negative,HER2-enriched
+TCGA-A8-A08B,FEMALE,52,Positive,Negative,Positive,HER2-enriched
+TCGA-A8-A08X,FEMALE,43,Negative,Negative,Positive,HER2-enriched
+TCGA-A8-A092,FEMALE,48,Positive,Positive,Negative,HER2-enriched
+TCGA-A8-A094,FEMALE,75,Positive,Negative,Negative,HER2-enriched
+TCGA-A8-A09G,FEMALE,79,Positive,Negative,Positive,HER2-enriched
+TCGA-A8-A0A7,FEMALE,57,Negative,Negative,Positive,HER2-enriched
+TCGA-AN-A04C,FEMALE,51,Negative,Negative,Positive,HER2-enriched
+TCGA-AN-A0FV,FEMALE,58,Negative,Negative,Positive,HER2-enriched
+TCGA-AR-A0TX,FEMALE,64,Positive,Positive,Positive,HER2-enriched
+TCGA-BH-A0B7,FEMALE,42,Positive,Positive,Positive,HER2-enriched
+TCGA-BH-A0HY,FEMALE,60,Positive,Negative,Not Available,HER2-enriched
+TCGA-C8-A12L,FEMALE,67,Negative,Negative,Positive,HER2-enriched
+TCGA-C8-A12P,FEMALE,55,Negative,Negative,Positive,HER2-enriched
+TCGA-C8-A12Q,FEMALE,78,Negative,Negative,Positive,HER2-enriched
+TCGA-C8-A12T,FEMALE,43,Positive,Positive,Positive,HER2-enriched
+TCGA-C8-A12Z,FEMALE,45,Negative,Negative,Positive,HER2-enriched
+TCGA-C8-A130,FEMALE,52,Positive,Positive,Equivocal,HER2-enriched
+TCGA-C8-A135,FEMALE,64,Negative,Negative,Positive,HER2-enriched
+TCGA-C8-A137,FEMALE,34,Negative,Negative,Positive,HER2-enriched
+TCGA-C8-A138,FEMALE,54,Positive,Negative,Positive,HER2-enriched
+TCGA-C8-A1HF,FEMALE,48,Negative,Positive,Positive,HER2-enriched
+TCGA-D8-A13Z,FEMALE,51,Negative,Negative,Negative,HER2-enriched
+TCGA-E2-A14P,FEMALE,79,Negative,Negative,Positive,HER2-enriched
+TCGA-E2-A14V,FEMALE,53,Positive,Positive,Positive,HER2-enriched
+TCGA-E2-A152,FEMALE,56,Positive,Negative,Positive,HER2-enriched
+TCGA-E2-A1B0,FEMALE,50,Negative,Negative,Positive,HER2-enriched
+TCGA-A2-A0CU,FEMALE,73,Positive,Positive,Negative,Luminal A
+TCGA-AR-A0TR,FEMALE,68,Positive,Positive,Negative,Luminal A
+TCGA-BH-A18T,FEMALE,70,Negative,Negative,Negative,Luminal A
+TCGA-B6-A0I8,FEMALE,46,Not Performed,Not Performed,Not Available,Luminal A
+TCGA-B6-A0X4,FEMALE,62,Positive,Positive,Negative,Luminal A
+TCGA-A8-A06U,FEMALE,80,Positive,Positive,Equivocal,Luminal A
+TCGA-BH-A0EA,FEMALE,72,Positive,Positive,Negative,Luminal A
+TCGA-BH-A18N,FEMALE,88,Positive,Positive,Negative,Luminal A
+TCGA-BH-A1EU,FEMALE,83,Positive,Positive,Negative,Luminal A
+TCGA-B6-A0X7,FEMALE,62,Positive,Positive,Negative,Luminal A
+TCGA-A2-A04V,FEMALE,39,Positive,Positive,Negative,Luminal A
+TCGA-BH-A18S,FEMALE,79,Positive,Positive,Not Available,Luminal A
+TCGA-BH-A18M,FEMALE,39,Positive,Positive,Positive,Luminal A
+TCGA-B6-A0RM,FEMALE,57,Positive,Positive,Negative,Luminal A
+TCGA-BH-A1ET,FEMALE,55,Positive,Positive,Negative,Luminal A
+TCGA-B6-A0IN,FEMALE,45,Positive,Negative,Not Available,Luminal A
+TCGA-BH-A1EO,FEMALE,68,Positive,Positive,Negative,Luminal A
+TCGA-B6-A0WS,FEMALE,58,Positive,Positive,Negative,Luminal A
+TCGA-B6-A0RP,FEMALE,73,Positive,Positive,Negative,Luminal A
+TCGA-B6-A0IH,FEMALE,81,Positive,Positive,Negative,Luminal A
+TCGA-B6-A0WY,FEMALE,40,Positive,Negative,Negative,Luminal A
+TCGA-BH-A1ES,FEMALE,35,Positive,Positive,Negative,Luminal A
+TCGA-B6-A0X0,FEMALE,54,Positive,Positive,Negative,Luminal A
+TCGA-B6-A0RQ,FEMALE,68,Positive,Positive,Negative,Luminal A
+TCGA-B6-A0IG,FEMALE,50,Positive,Positive,Not Available,Luminal A
+TCGA-BH-A0HO,FEMALE,48,Positive,Positive,Negative,Luminal A
+TCGA-BH-A0DS,FEMALE,71,Positive,Positive,Negative,Luminal A
+TCGA-BH-A0DQ,FEMALE,42,Positive,Positive,Negative,Luminal A
+TCGA-BH-A0HK,FEMALE,81,Positive,Negative,Negative,Luminal A
+TCGA-A7-A0CG,FEMALE,78,Positive,Negative,Negative,Luminal A
+TCGA-A7-A0CH,FEMALE,79,Performed but Not Available,Performed but Not Available,Negative,Luminal A
+TCGA-A7-A0DB,FEMALE,56,Positive,Positive,Negative,Luminal A
+TCGA-A7-A0D9,FEMALE,37,Positive,Negative,Negative,Luminal A
+TCGA-AO-A0J8,FEMALE,61,Positive,Positive,Negative,Luminal A
+TCGA-BH-A0GZ,FEMALE,62,Positive,Positive,Negative,Luminal A
+TCGA-AO-A0JA,FEMALE,36,Positive,Positive,Negative,Luminal A
+TCGA-AO-A0JF,FEMALE,68,Positive,Positive,Negative,Luminal A
+TCGA-A7-A0CD,FEMALE,66,Positive,Positive,Negative,Luminal A
+TCGA-D8-A145,FEMALE,80,Positive,Positive,Negative,Luminal A
+TCGA-BH-A0HP,FEMALE,65,Positive,Negative,Negative,Luminal A
+TCGA-BH-A0DK,FEMALE,49,Positive,Positive,Negative,Luminal A
+TCGA-BH-A0E2,FEMALE,49,Positive,Positive,Negative,Luminal A
+TCGA-A2-A0YI,FEMALE,62,Positive,Positive,Negative,Luminal A
+TCGA-A2-A0YL,FEMALE,48,Positive,Positive,Negative,Luminal A
+TCGA-AO-A0JG,FEMALE,49,Positive,Positive,Negative,Luminal A
+TCGA-A2-A0YF,FEMALE,67,Positive,Negative,Negative,Luminal A
+TCGA-BH-A0DP,FEMALE,60,Positive,Positive,Negative,Luminal A
+TCGA-BH-A0E1,FEMALE,52,Positive,Positive,Negative,Luminal A
+TCGA-A2-A0T5,FEMALE,39,Positive,Positive,Negative,Luminal A
+TCGA-A2-A0T6,FEMALE,50,Positive,Positive,Negative,Luminal A
+TCGA-BH-A0HI,FEMALE,78,Positive,Positive,Negative,Luminal A
+TCGA-A2-A0T7,FEMALE,51,Positive,Positive,Negative,Luminal A
+TCGA-BH-A0BJ,FEMALE,41,Positive,Positive,Negative,Luminal A
+TCGA-BH-A0H7,FEMALE,65,Positive,Positive,Negative,Luminal A
+TCGA-BH-A0HF,FEMALE,77,Positive,Positive,Negative,Luminal A
+TCGA-BH-A0EB,FEMALE,69,Positive,Positive,Negative,Luminal A
+TCGA-BH-A0H6,FEMALE,82,Positive,Positive,Negative,Luminal A
+TCGA-A2-A0YD,FEMALE,63,Positive,Positive,Negative,Luminal A
+TCGA-BH-A0HB,FEMALE,55,Positive,Positive,Negative,Luminal A
+TCGA-BH-A0HX,FEMALE,54,Positive,Positive,Negative,Luminal A
+TCGA-AO-A12H,FEMALE,69,Positive,Positive,Negative,Luminal A
+TCGA-E2-A10E,FEMALE,64,Positive,Positive,Negative,Luminal A
+TCGA-A2-A0D3,FEMALE,42,Positive,Positive,Negative,Luminal A
+TCGA-E2-A10F,FEMALE,47,Positive,Positive,Negative,Luminal A
+TCGA-AO-A03V,FEMALE,41,Positive,Positive,Negative,Luminal A
+TCGA-A2-A0EW,FEMALE,53,Positive,Positive,Negative,Luminal A
+TCGA-BH-A0GY,FEMALE,67,Positive,Positive,Negative,Luminal A
+TCGA-A2-A0EV,FEMALE,80,Positive,Positive,Negative,Luminal A
+TCGA-BH-A0BC,FEMALE,60,Positive,Positive,Negative,Luminal A
+TCGA-A2-A0YC,FEMALE,59,Positive,Positive,Negative,Luminal A
+TCGA-A2-A0EU,FEMALE,79,Positive,Positive,Negative,Luminal A
+TCGA-A2-A0ET,FEMALE,58,Positive,Positive,Negative,Luminal A
+TCGA-A2-A04Y,FEMALE,53,Positive,Positive,Negative,Luminal A
+TCGA-BH-A0HQ,FEMALE,56,Positive,Positive,Negative,Luminal A
+TCGA-A2-A0ES,FEMALE,52,Positive,Positive,Negative,Luminal A
+TCGA-BH-A0BA,FEMALE,51,Positive,Positive,Negative,Luminal A
+TCGA-E2-A10B,FEMALE,67,Positive,Positive,Negative,Luminal A
+TCGA-BH-A0B1,FEMALE,66,Positive,Positive,Negative,Luminal A
+TCGA-BH-A0DH,FEMALE,63,Positive,Positive,Negative,Luminal A
+TCGA-BH-A0B4,MALE,65,Positive,Positive,Positive,Luminal A
+TCGA-BH-A0H9,FEMALE,69,Positive,Positive,Negative,Luminal A
+TCGA-AO-A0J9,FEMALE,61,Positive,Positive,Negative,Luminal A
+TCGA-AO-A12G,FEMALE,75,Positive,Positive,Negative,Luminal A
+TCGA-A2-A0SY,FEMALE,62,Positive,Positive,Positive,Luminal A
+TCGA-BH-A0E7,FEMALE,79,Positive,Positive,Negative,Luminal A
+TCGA-AO-A03M,FEMALE,29,Positive,Positive,Negative,Luminal A
+TCGA-BH-A0BV,FEMALE,78,Positive,Positive,Negative,Luminal A
+TCGA-BH-A0B8,FEMALE,64,Positive,Positive,Negative,Luminal A
+TCGA-A2-A0CZ,FEMALE,46,Positive,Positive,Negative,Luminal A
+TCGA-A2-A0SU,FEMALE,66,Positive,Positive,Negative,Luminal A
+TCGA-AO-A12E,FEMALE,51,Positive,Positive,Negative,Luminal A
+TCGA-E2-A106,FEMALE,34,Positive,Positive,Negative,Luminal A
+TCGA-A2-A0CV,FEMALE,41,Positive,Positive,Negative,Luminal A
+TCGA-AO-A12C,FEMALE,42,Positive,Positive,Positive,Luminal A
+TCGA-B6-A0RG,FEMALE,26,Negative,Negative,Negative,Luminal A
+TCGA-A2-A0CS,FEMALE,73,Positive,Positive,Negative,Luminal A
+TCGA-A2-A0EO,FEMALE,54,Positive,Positive,Negative,Luminal A
+TCGA-A2-A0CQ,FEMALE,62,Positive,Positive,Negative,Luminal A
+TCGA-A2-A0EN,FEMALE,70,Positive,Positive,Negative,Luminal A
+TCGA-AO-A12A,FEMALE,47,Positive,Positive,Negative,Luminal A
+TCGA-A2-A0CP,FEMALE,60,Positive,Positive,Negative,Luminal A
+TCGA-AO-A126,FEMALE,39,Positive,Positive,Negative,Luminal A
+TCGA-AO-A125,FEMALE,72,Positive,Positive,Negative,Luminal A
+TCGA-A2-A0EM,FEMALE,73,Positive,Positive,Negative,Luminal A
+TCGA-A2-A04N,FEMALE,66,Positive,Positive,Negative,Luminal A
+TCGA-AQ-A04L,FEMALE,48,Positive,Negative,Positive,Luminal A
+TCGA-B6-A0IO,FEMALE,66,Positive,Indeterminate,Negative,Luminal A
+TCGA-B6-A0IP,FEMALE,74,Positive,Positive,Negative,Luminal A
+TCGA-B6-A0WZ,FEMALE,50,Positive,Positive,Negative,Luminal A
+TCGA-B6-A0I5,FEMALE,49,Positive,Positive,Negative,Luminal A
+TCGA-B6-A0RV,FEMALE,42,Positive,Positive,Negative,Luminal A
+TCGA-B6-A0RO,FEMALE,71,Positive,Positive,Negative,Luminal A
+TCGA-B6-A0RN,FEMALE,60,Negative,Negative,Negative,Luminal A
+TCGA-B6-A0WT,FEMALE,61,Positive,Positive,Negative,Luminal A
+TCGA-B6-A0IA,FEMALE,51,Positive,Positive,Negative,Luminal A
+TCGA-B6-A0RI,FEMALE,44,Positive,Positive,Negative,Luminal A
+TCGA-A1-A0SE,FEMALE,56,Positive,Positive,Negative,Luminal A
+TCGA-A2-A0EX,FEMALE,46,Positive,Positive,Negative,Luminal A
+TCGA-AO-A0JJ,FEMALE,54,Positive,Positive,Negative,Luminal A
+TCGA-E2-A105,FEMALE,79,Positive,Positive,Equivocal,Luminal A
+TCGA-A1-A0SD,FEMALE,59,Positive,Positive,Negative,Luminal A
+TCGA-A1-A0SH,FEMALE,39,Negative,Positive,Negative,Luminal A
+TCGA-A1-A0SJ,FEMALE,39,Positive,Positive,Negative,Luminal A
+TCGA-A8-A06P,FEMALE,63,Positive,Positive,Negative,Luminal A
+TCGA-A8-A06T,FEMALE,75,Positive,Positive,Negative,Luminal A
+TCGA-A8-A06Y,FEMALE,66,Positive,Positive,Negative,Luminal A
+TCGA-A8-A07E,FEMALE,81,Positive,Positive,Negative,Luminal A
+TCGA-A8-A07F,FEMALE,65,Positive,Positive,Negative,Luminal A
+TCGA-A8-A07G,FEMALE,65,Positive,Positive,Negative,Luminal A
+TCGA-A8-A07J,FEMALE,35,Positive,Positive,Negative,Luminal A
+TCGA-A8-A07P,FEMALE,68,Positive,Positive,Positive,Luminal A
+TCGA-A8-A083,FEMALE,67,Positive,Positive,Negative,Luminal A
+TCGA-A8-A086,FEMALE,59,Positive,Positive,Negative,Luminal A
+TCGA-A8-A08A,FEMALE,89,Positive,Positive,Negative,Luminal A
+TCGA-A8-A08C,FEMALE,65,Positive,Positive,Negative,Luminal A
+TCGA-A8-A08O,FEMALE,45,Positive,Positive,Negative,Luminal A
+TCGA-A8-A08T,FEMALE,64,Positive,Positive,Negative,Luminal A
+TCGA-A8-A08Z,FEMALE,76,Positive,Positive,Negative,Luminal A
+TCGA-A8-A090,FEMALE,74,Positive,Positive,Negative,Luminal A
+TCGA-A8-A091,FEMALE,61,Positive,Negative,Negative,Luminal A
+TCGA-A8-A093,FEMALE,61,Positive,Positive,Negative,Luminal A
+TCGA-A8-A099,FEMALE,76,Positive,Positive,Positive,Luminal A
+TCGA-A8-A09A,FEMALE,40,Positive,Positive,Negative,Luminal A
+TCGA-A8-A09B,FEMALE,58,Positive,Positive,Negative,Luminal A
+TCGA-A8-A09T,FEMALE,68,Positive,Positive,Negative,Luminal A
+TCGA-A8-A09V,FEMALE,51,Positive,Positive,Negative,Luminal A
+TCGA-A8-A0A1,FEMALE,84,Positive,Positive,Negative,Luminal A
+TCGA-A8-A0A2,FEMALE,66,Positive,Positive,Negative,Luminal A
+TCGA-A8-A0A4,FEMALE,73,Positive,Positive,Negative,Luminal A
+TCGA-A8-A0A6,FEMALE,64,Positive,Positive,Negative,Luminal A
+TCGA-A8-A0AD,FEMALE,83,Positive,Positive,Negative,Luminal A
+TCGA-AN-A03X,FEMALE,74,Positive,Positive,Negative,Luminal A
+TCGA-AN-A046,FEMALE,68,Positive,Positive,Negative,Luminal A
+TCGA-AN-A04A,FEMALE,36,Positive,Positive,Negative,Luminal A
+TCGA-AN-A0FD,FEMALE,71,Positive,Positive,Positive,Luminal A
+TCGA-AN-A0FN,FEMALE,61,Positive,Positive,Negative,Luminal A
+TCGA-AN-A0FS,FEMALE,55,Positive,Negative,Negative,Luminal A
+TCGA-AN-A0FT,FEMALE,63,Positive,Positive,Positive,Luminal A
+TCGA-AN-A0FW,FEMALE,67,Positive,Indeterminate,Negative,Luminal A
+TCGA-AN-A0FZ,FEMALE,45,Positive,Negative,Equivocal,Luminal A
+TCGA-AN-A0XL,FEMALE,61,Positive,Positive,Negative,Luminal A
+TCGA-AN-A0XN,FEMALE,68,Negative,Positive,Negative,Luminal A
+TCGA-AN-A0XO,FEMALE,59,Positive,Negative,Negative,Luminal A
+TCGA-AN-A0XP,FEMALE,69,Positive,Positive,Negative,Luminal A
+TCGA-AN-A0XS,FEMALE,63,Negative,Positive,Negative,Luminal A
+TCGA-AN-A0XT,FEMALE,54,Positive,Negative,Negative,Luminal A
+TCGA-AN-A0XV,FEMALE,67,Positive,Positive,Negative,Luminal A
+TCGA-AR-A0TW,FEMALE,50,Positive,Positive,Negative,Luminal A
+TCGA-AR-A1AK,FEMALE,70,Positive,Positive,Negative,Luminal A
+TCGA-AR-A1AL,FEMALE,60,Positive,Positive,Negative,Luminal A
+TCGA-AR-A1AN,FEMALE,46,Positive,Positive,Negative,Luminal A
+TCGA-AR-A1AP,FEMALE,80,Positive,Positive,Negative,Luminal A
+TCGA-AR-A1AS,FEMALE,54,Positive,Positive,Negative,Luminal A
+TCGA-AR-A1AU,FEMALE,39,Positive,Positive,Negative,Luminal A
+TCGA-AR-A1AW,FEMALE,65,Positive,Positive,Negative,Luminal A
+TCGA-AR-A1AX,FEMALE,64,Positive,Positive,Positive,Luminal A
+TCGA-BH-A0AZ,FEMALE,47,Positive,Positive,Negative,Luminal A
+TCGA-BH-A0B0,FEMALE,56,Positive,Positive,Negative,Luminal A
+TCGA-BH-A0BM,FEMALE,54,Positive,Negative,Negative,Luminal A
+TCGA-BH-A0BO,FEMALE,54,Positive,Positive,Negative,Luminal A
+TCGA-BH-A0BP,FEMALE,76,Positive,Positive,Negative,Luminal A
+TCGA-BH-A0BQ,FEMALE,39,Positive,Positive,Negative,Luminal A
+TCGA-BH-A0BR,FEMALE,59,Positive,Positive,Negative,Luminal A
+TCGA-BH-A0BS,FEMALE,55,Positive,Positive,Negative,Luminal A
+TCGA-BH-A0BT,FEMALE,56,Positive,Positive,Negative,Luminal A
+TCGA-BH-A0C1,FEMALE,61,Positive,Positive,Negative,Luminal A
+TCGA-BH-A0DE,FEMALE,62,Positive,Positive,Negative,Luminal A
+TCGA-BH-A0DG,FEMALE,30,Positive,Negative,Negative,Luminal A
+TCGA-BH-A0DI,FEMALE,63,Positive,Positive,Negative,Luminal A
+TCGA-BH-A0DO,FEMALE,78,Positive,Positive,Negative,Luminal A
+TCGA-BH-A0DT,FEMALE,41,Positive,Positive,Negative,Luminal A
+TCGA-BH-A0DX,FEMALE,62,Positive,Positive,Negative,Luminal A
+TCGA-BH-A0E9,FEMALE,53,Positive,Positive,Negative,Luminal A
+TCGA-BH-A0EI,FEMALE,51,Positive,Positive,Negative,Luminal A
+TCGA-BH-A0H3,FEMALE,46,Positive,Positive,Negative,Luminal A
+TCGA-BH-A0H5,FEMALE,45,Positive,Positive,Negative,Luminal A
+TCGA-BH-A0HA,FEMALE,31,Positive,Positive,Negative,Luminal A
+TCGA-BH-A0W4,FEMALE,46,Positive,Positive,Negative,Luminal A
+TCGA-BH-A0W5,FEMALE,77,Positive,Positive,Negative,Luminal A
+TCGA-BH-A0W7,FEMALE,49,Positive,Positive,Negative,Luminal A
+TCGA-BH-A18H,FEMALE,63,Positive,Positive,Negative,Luminal A
+TCGA-BH-A18I,FEMALE,53,Positive,Positive,Negative,Luminal A
+TCGA-C8-A12N,FEMALE,58,Positive,Positive,Negative,Luminal A
+TCGA-C8-A12O,FEMALE,50,Positive,Positive,Not Available,Luminal A
+TCGA-C8-A12Y,FEMALE,44,Not Performed,Not Performed,Negative,Luminal A
+TCGA-C8-A132,FEMALE,56,Positive,Positive,Positive,Luminal A
+TCGA-C8-A133,FEMALE,65,Positive,Positive,Negative,Luminal A
+TCGA-C8-A1HI,FEMALE,40,Positive,Positive,Negative,Luminal A
+TCGA-D8-A141,FEMALE,40,Positive,Positive,Negative,Luminal A
+TCGA-E2-A14Q,FEMALE,50,Positive,Positive,Negative,Luminal A
+TCGA-E2-A14T,FEMALE,52,Positive,Positive,Negative,Luminal A
+TCGA-E2-A14Z,FEMALE,64,Positive,Positive,Negative,Luminal A
+TCGA-E2-A153,FEMALE,51,Positive,Positive,Negative,Luminal A
+TCGA-E2-A154,FEMALE,68,Positive,Positive,Negative,Luminal A
+TCGA-E2-A156,FEMALE,61,Positive,Positive,Negative,Luminal A
+TCGA-E2-A15C,FEMALE,61,Positive,Positive,Negative,Luminal A
+TCGA-E2-A15D,FEMALE,47,Positive,Positive,Negative,Luminal A
+TCGA-E2-A15E,FEMALE,40,Positive,Positive,Positive,Luminal A
+TCGA-E2-A15F,FEMALE,64,Positive,Positive,Negative,Luminal A
+TCGA-E2-A15G,FEMALE,76,Positive,Positive,Negative,Luminal A
+TCGA-E2-A15H,FEMALE,38,Positive,Positive,Positive,Luminal A
+TCGA-E2-A15I,FEMALE,44,Positive,Positive,Negative,Luminal A
+TCGA-E2-A15J,FEMALE,51,Positive,Positive,Negative,Luminal A
+TCGA-E2-A15O,FEMALE,89,Positive,Positive,Negative,Luminal A
+TCGA-E2-A15P,FEMALE,61,Positive,Positive,Negative,Luminal A
+TCGA-E2-A15R,FEMALE,64,Positive,Positive,Negative,Luminal A
+TCGA-E2-A1B1,FEMALE,45,Positive,Positive,Positive,Luminal A
+TCGA-E2-A1B4,FEMALE,74,Positive,Positive,Negative,Luminal A
+TCGA-E2-A1B6,FEMALE,44,Negative,Negative,Negative,Luminal A
+TCGA-E2-A1BC,FEMALE,63,Positive,Positive,Negative,Luminal A
+TCGA-E2-A1BD,FEMALE,53,Positive,Positive,Negative,Luminal A
+TCGA-A2-A0SV,FEMALE,63,Positive,Positive,Negative,Luminal B
+TCGA-AO-A03O,FEMALE,69,Positive,Positive,Negative,Luminal B
+TCGA-A2-A0SW,FEMALE,82,Positive,Negative,Negative,Luminal B
+TCGA-B6-A0WW,FEMALE,58,Positive,Positive,Negative,Luminal B
+TCGA-BH-A18J,FEMALE,56,Positive,Positive,Negative,Luminal B
+TCGA-BH-A18L,FEMALE,50,Positive,Positive,Not Available,Luminal B
+TCGA-A8-A06X,FEMALE,77,Positive,Negative,Positive,Luminal B
+TCGA-B6-A0IC,FEMALE,90,Positive,Positive,Negative,Luminal B
+TCGA-BH-A18U,FEMALE,72,Positive,Positive,Positive,Luminal B
+TCGA-BH-A1EW,FEMALE,38,Negative,Negative,Negative,Luminal B
+TCGA-AR-A0TY,FEMALE,54,Positive,Negative,Negative,Luminal B
+TCGA-B6-A0X5,FEMALE,61,Positive,Positive,Negative,Luminal B
+TCGA-B6-A0WV,FEMALE,67,Positive,Positive,Negative,Luminal B
+TCGA-B6-A0RL,FEMALE,60,Positive,Positive,Negative,Luminal B
+TCGA-AR-A0U2,FEMALE,47,Positive,Positive,Negative,Luminal B
+TCGA-B6-A0IB,FEMALE,64,Positive,Positive,Negative,Luminal B
+TCGA-AO-A0J7,FEMALE,71,Positive,Positive,Negative,Luminal B
+TCGA-AO-A0J3,FEMALE,67,Positive,Positive,Negative,Luminal B
+TCGA-D8-A13Y,FEMALE,52,Positive,Positive,Negative,Luminal B
+TCGA-A7-A13F,FEMALE,44,Positive,Positive,Negative,Luminal B
+TCGA-BH-A0HU,FEMALE,52,Positive,Positive,Negative,Luminal B
+TCGA-D8-A140,FEMALE,62,Positive,Positive,Positive,Luminal B
+TCGA-A7-A0CJ,FEMALE,57,Positive,Positive,Negative,Luminal B
+TCGA-AQ-A04H,FEMALE,61,Positive,Positive,Positive,Luminal B
+TCGA-BH-A0H0,FEMALE,69,Positive,Positive,Negative,Luminal B
+TCGA-BH-A0BD,FEMALE,47,Positive,Positive,Negative,Luminal B
+TCGA-A2-A0T3,FEMALE,37,Positive,Positive,Negative,Luminal B
+TCGA-A2-A0T4,FEMALE,62,Positive,Positive,Negative,Luminal B
+TCGA-A2-A0YH,FEMALE,53,Positive,Positive,Negative,Luminal B
+TCGA-A2-A0YG,FEMALE,63,Positive,Positive,Positive,Luminal B
+TCGA-A2-A0EY,FEMALE,62,Positive,Negative,Positive,Luminal B
+TCGA-A2-A0D4,FEMALE,37,Positive,Positive,Negative,Luminal B
+TCGA-BH-A0AY,FEMALE,62,Positive,Positive,Negative,Luminal B
+TCGA-E2-A107,FEMALE,54,Positive,Negative,Negative,Luminal B
+TCGA-AO-A0JI,FEMALE,56,Positive,Negative,Negative,Luminal B
+TCGA-E2-A10C,FEMALE,54,Positive,Positive,Negative,Luminal B
+TCGA-E2-A10A,FEMALE,41,Positive,Positive,Negative,Luminal B
+TCGA-BH-A0C0,FEMALE,62,Positive,Positive,Positive,Luminal B
+TCGA-E2-A109,FEMALE,64,Positive,Negative,Negative,Luminal B
+TCGA-AO-A0JC,FEMALE,64,Positive,Positive,Negative,Luminal B
+TCGA-BH-A0HW,FEMALE,62,Positive,Negative,Negative,Luminal B
+TCGA-AO-A0JD,FEMALE,59,Positive,Positive,Negative,Luminal B
+TCGA-AO-A0JM,FEMALE,40,Positive,Positive,Positive,Luminal B
+TCGA-A2-A0CW,FEMALE,67,Positive,Positive,Negative,Luminal B
+TCGA-A2-A0ER,FEMALE,63,Positive,Positive,Negative,Luminal B
+TCGA-A2-A0CT,FEMALE,71,Positive,Negative,Negative,Luminal B
+TCGA-AO-A12B,FEMALE,63,Positive,Positive,Negative,Luminal B
+TCGA-A2-A04R,FEMALE,36,Positive,Positive,Negative,Luminal B
+TCGA-B6-A0IM,FEMALE,75,Positive,Positive,Negative,Luminal B
+TCGA-AO-A03P,FEMALE,54,Positive,Positive,Negative,Luminal B
+TCGA-A1-A0SM,MALE,77,Positive,Negative,Positive,Luminal B
+TCGA-A8-A06N,FEMALE,66,Positive,Negative,Negative,Luminal B
+TCGA-A8-A06O,FEMALE,60,Positive,Positive,Negative,Luminal B
+TCGA-A8-A06Q,FEMALE,63,Positive,Positive,Negative,Luminal B
+TCGA-A8-A06R,FEMALE,69,Positive,Negative,Equivocal,Luminal B
+TCGA-A8-A06Z,FEMALE,84,Positive,Positive,Negative,Luminal B
+TCGA-A8-A079,FEMALE,69,Positive,Positive,Negative,Luminal B
+TCGA-A8-A07L,FEMALE,58,Positive,Positive,Negative,Luminal B
+TCGA-A8-A07S,FEMALE,73,Positive,Negative,Negative,Luminal B
+TCGA-A8-A07W,FEMALE,76,Positive,Positive,Negative,Luminal B
+TCGA-A8-A07Z,FEMALE,85,Positive,Positive,Negative,Luminal B
+TCGA-A8-A082,FEMALE,58,Positive,Positive,Negative,Luminal B
+TCGA-A8-A084,FEMALE,81,Positive,Negative,Negative,Luminal B
+TCGA-A8-A085,MALE,44,Positive,Positive,Negative,Luminal B
+TCGA-A8-A08F,FEMALE,59,Positive,Positive,Negative,Luminal B
+TCGA-A8-A08G,FEMALE,41,Positive,Positive,Positive,Luminal B
+TCGA-A8-A08I,FEMALE,53,Positive,Positive,Negative,Luminal B
+TCGA-A8-A08P,FEMALE,70,Positive,Positive,Positive,Luminal B
+TCGA-A8-A095,FEMALE,45,Positive,Positive,Negative,Luminal B
+TCGA-A8-A096,FEMALE,73,Positive,Positive,Negative,Luminal B
+TCGA-A8-A097,FEMALE,65,Positive,Positive,Positive,Luminal B
+TCGA-A8-A09C,FEMALE,69,Positive,Positive,Negative,Luminal B
+TCGA-A8-A09D,FEMALE,47,Positive,Positive,Negative,Luminal B
+TCGA-A8-A09I,FEMALE,84,Positive,Positive,Positive,Luminal B
+TCGA-A8-A09M,FEMALE,75,Positive,Positive,Negative,Luminal B
+TCGA-A8-A09N,FEMALE,57,Positive,Positive,Positive,Luminal B
+TCGA-A8-A09Q,FEMALE,83,Positive,Positive,Negative,Luminal B
+TCGA-A8-A09R,FEMALE,82,Positive,Positive,Negative,Luminal B
+TCGA-A8-A09W,FEMALE,70,Positive,Positive,Negative,Luminal B
+TCGA-A8-A09Z,FEMALE,83,Positive,Negative,Negative,Luminal B
+TCGA-A8-A0A9,FEMALE,80,Positive,Positive,Negative,Luminal B
+TCGA-A8-A0AB,FEMALE,54,Positive,Positive,Negative,Luminal B
+TCGA-AN-A03Y,FEMALE,66,Positive,Positive,Negative,Luminal B
+TCGA-AN-A041,FEMALE,29,Positive,Negative,Equivocal,Luminal B
+TCGA-AN-A049,FEMALE,62,Positive,Positive,Negative,Luminal B
+TCGA-AN-A0AJ,FEMALE,79,Positive,Positive,Positive,Luminal B
+TCGA-AN-A0AK,FEMALE,76,Positive,Negative,Negative,Luminal B
+TCGA-AN-A0AM,FEMALE,56,Positive,Negative,Negative,Luminal B
+TCGA-AN-A0AS,FEMALE,70,Positive,Negative,Negative,Luminal B
+TCGA-AN-A0FF,FEMALE,32,Positive,Positive,Negative,Luminal B
+TCGA-AN-A0FK,FEMALE,88,Positive,Positive,Negative,Luminal B
+TCGA-AN-A0FY,FEMALE,55,Positive,Positive,Negative,Luminal B
+TCGA-AN-A0XR,FEMALE,55,Positive,Negative,Negative,Luminal B
+TCGA-AN-A0XW,FEMALE,36,Positive,Positive,Negative,Luminal B
+TCGA-AR-A0TQ,FEMALE,27,Positive,Negative,Positive,Luminal B
+TCGA-AR-A0TT,FEMALE,53,Positive,Negative,Negative,Luminal B
+TCGA-AR-A0TV,FEMALE,66,Positive,Positive,Negative,Luminal B
+TCGA-AR-A0TZ,FEMALE,43,Positive,Positive,Negative,Luminal B
+TCGA-AR-A0U3,FEMALE,59,Positive,Positive,Negative,Luminal B
+TCGA-AR-A1AV,MALE,68,Positive,Positive,Negative,Luminal B
+TCGA-BH-A0AU,FEMALE,45,Positive,Positive,Negative,Luminal B
+TCGA-BH-A0B5,FEMALE,40,Positive,Positive,Negative,Luminal B
+TCGA-BH-A0BF,FEMALE,56,Positive,Positive,Negative,Luminal B
+TCGA-BH-A0BZ,FEMALE,59,Positive,Positive,Negative,Luminal B
+TCGA-BH-A0C3,FEMALE,47,Positive,Negative,Negative,Luminal B
+TCGA-BH-A0C7,FEMALE,48,Positive,Negative,Positive,Luminal B
+TCGA-BH-A0DD,MALE,58,Positive,Positive,Positive,Luminal B
+TCGA-BH-A0W3,FEMALE,58,Positive,Positive,Negative,Luminal B
+TCGA-BH-A18F,FEMALE,50,Positive,Positive,Negative,Luminal B
+TCGA-C8-A12M,FEMALE,70,Positive,Negative,Not Available,Luminal B
+TCGA-C8-A12U,FEMALE,46,Positive,Positive,Negative,Luminal B
+TCGA-C8-A12W,FEMALE,49,Positive,Positive,Negative,Luminal B
+TCGA-C8-A12X,FEMALE,62,Positive,Positive,Negative,Luminal B
+TCGA-C8-A1HG,FEMALE,50,Positive,Positive,Negative,Luminal B
+TCGA-C8-A1HL,FEMALE,38,Positive,Negative,Positive,Luminal B
+TCGA-C8-A1HM,FEMALE,74,Positive,Positive,Negative,Luminal B
+TCGA-C8-A1HN,FEMALE,56,Positive,Positive,Equivocal,Luminal B
+TCGA-E2-A14O,FEMALE,76,Positive,Positive,Negative,Luminal B
+TCGA-E2-A14S,FEMALE,65,Positive,Positive,Negative,Luminal B
+TCGA-E2-A14W,FEMALE,78,Positive,Positive,Positive,Luminal B
+TCGA-E2-A155,FEMALE,58,Positive,Negative,Negative,Luminal B
+TCGA-E2-A15A,FEMALE,45,Positive,Positive,Negative,Luminal B
+TCGA-E2-A15K,FEMALE,58,Positive,Positive,Negative,Luminal B
+TCGA-E2-A15L,FEMALE,65,Positive,Positive,Negative,Luminal B
+TCGA-E2-A15M,FEMALE,66,Positive,Positive,Negative,Luminal B
+TCGA-E2-A15S,FEMALE,34,Positive,Negative,Negative,Luminal B
+TCGA-E2-A15T,FEMALE,65,Positive,Positive,Negative,Luminal B
+TCGA-AO-A03U,FEMALE,31,Negative,Negative,Negative,Normal-like
+TCGA-B6-A0IE,FEMALE,38,Negative,Negative,Negative,Normal-like
+TCGA-A2-A0YK,FEMALE,61,Positive,Negative,Negative,Normal-like
+TCGA-E2-A108,FEMALE,64,Positive,Positive,Negative,Normal-like
+TCGA-AO-A0JB,FEMALE,50,Positive,Positive,Negative,Normal-like
+TCGA-AO-A03R,FEMALE,57,Positive,Positive,Negative,Normal-like
+TCGA-AO-A03T,FEMALE,42,Positive,Positive,Negative,Normal-like
+TCGA-AR-A1AO,FEMALE,47,Positive,Negative,Negative,Normal-like
+TCGA-A2-A0YT,FEMALE,56,Positive,Negative,Negative,NA
+TCGA-AQ-A0Y5,FEMALE,70,Positive,Positive,Positive,NA
+TCGA-EW-A1P8,FEMALE,58,Negative,Negative,Negative,NA
+TCGA-E2-A1LK,FEMALE,84,Negative,Negative,Negative,NA
+TCGA-BH-A1EY,FEMALE,79,Positive,Positive,Negative,NA
+TCGA-BH-A1F8,FEMALE,90,Positive,Positive,Negative,NA
+TCGA-BH-A1F2,FEMALE,53,Positive,Positive,Positive,NA
+TCGA-BH-A1FD,FEMALE,68,Positive,Positive,Negative,NA
+TCGA-BH-A1FH,FEMALE,47,Positive,Negative,Negative,NA
+TCGA-BH-A203,FEMALE,78,Performed but Not Available,Performed but Not Available,NA,NA
+TCGA-BH-A1FM,FEMALE,44,Positive,Negative,Negative,NA
+TCGA-BH-A1EX,FEMALE,67,Positive,Positive,Negative,NA
+TCGA-BH-A1FL,FEMALE,69,Positive,Positive,Negative,NA
+TCGA-BH-A208,FEMALE,48,Performed but Not Available,Performed but Not Available,NA,NA
+TCGA-GM-A2D9,FEMALE,69,Positive,Positive,NA,NA
+TCGA-BH-A1FJ,FEMALE,66,Negative,Positive,Negative,NA
+TCGA-BH-A1EN,FEMALE,78,Negative,Negative,Positive,NA
+TCGA-BH-A1FN,FEMALE,34,Positive,Positive,Negative,NA
+TCGA-BH-A1FU,FEMALE,44,Negative,Negative,Positive,NA
+TCGA-BH-A1FE,FEMALE,31,Positive,Positive,Negative,NA
+TCGA-BH-A204,FEMALE,80,Performed but Not Available,Performed but Not Available,NA,NA
+TCGA-BH-A1F5,FEMALE,62,Positive,Positive,NA,NA
+TCGA-AR-A256,FEMALE,45,Negative,Negative,Negative,NA
+TCGA-BH-A1F6,FEMALE,51,Negative,Negative,NA,NA
+TCGA-BH-A1FC,FEMALE,78,Negative,Negative,Negative,NA
+TCGA-BH-A1FB,FEMALE,60,Positive,Positive,Negative,NA
+TCGA-BH-A1FG,FEMALE,88,Positive,Positive,Not Available,NA
+TCGA-BH-A209,FEMALE,77,Positive,Positive,NA,NA
+TCGA-BH-A1FR,FEMALE,73,Positive,Positive,Negative,NA
+TCGA-AO-A1KS,FEMALE,69,Positive,Positive,Negative,NA
+TCGA-A7-A13G,FEMALE,79,Positive,Positive,Negative,NA
+TCGA-D8-A1JS,FEMALE,77,Positive,Positive,Negative,NA
+TCGA-A7-A0DC,FEMALE,63,Positive,Negative,Negative,NA
+TCGA-D8-A1JT,FEMALE,70,Positive,Positive,Negative,NA
+TCGA-A7-A26E,FEMALE,71,Positive,Positive,Negative,NA
+TCGA-D8-A1JH,FEMALE,56,Positive,Positive,Negative,NA
+TCGA-D8-A1JU,FEMALE,51,Positive,Positive,Negative,NA
+TCGA-AO-A1KO,FEMALE,46,Positive,Positive,Negative,NA
+TCGA-AO-A1KT,FEMALE,78,Positive,Positive,Negative,NA
+TCGA-AO-A0J5,FEMALE,48,Positive,Negative,Negative,NA
+TCGA-B6-A1KC,FEMALE,67,Positive,Negative,Not Available,NA
+TCGA-AO-A1KQ,MALE,84,Positive,Positive,Negative,NA
+TCGA-B6-A1KI,FEMALE,63,Positive,Positive,Negative,NA
+TCGA-AO-A1KP,FEMALE,77,Positive,Positive,Negative,NA
+TCGA-B6-A1KF,FEMALE,68,Negative,Negative,Positive,NA
+TCGA-B6-A1KN,FEMALE,57,Negative,Negative,Positive,NA
+TCGA-D8-A1XO,FEMALE,56,Positive,Positive,Negative,NA
+TCGA-D8-A1XT,FEMALE,61,Negative,Negative,Positive,NA
+TCGA-A1-A0SP,FEMALE,40,Negative,Negative,Negative,NA
+TCGA-D8-A1J8,FEMALE,77,Positive,Positive,Negative,NA
+TCGA-D8-A1JF,FEMALE,79,Negative,Negative,Negative,NA
+TCGA-D8-A1JG,FEMALE,62,Negative,Negative,Negative,NA
+TCGA-D8-A1XS,MALE,48,Positive,Positive,Positive,NA
+TCGA-A1-A0SB,FEMALE,70,Positive,Negative,Negative,NA
+TCGA-A1-A0SF,FEMALE,54,Positive,Positive,Negative,NA
+TCGA-A1-A0SG,FEMALE,61,Positive,Positive,Negative,NA
+TCGA-A1-A0SI,FEMALE,52,Positive,Positive,Negative,NA
+TCGA-A1-A0SN,FEMALE,50,Positive,Positive,Positive,NA
+TCGA-A1-A0SQ,FEMALE,45,Positive,Positive,Negative,NA
+TCGA-A2-A1FV,FEMALE,74,Positive,Positive,Negative,NA
+TCGA-A2-A1FW,FEMALE,62,Positive,Negative,Negative,NA
+TCGA-A2-A1FX,FEMALE,61,Positive,Positive,Negative,NA
+TCGA-A2-A1FZ,FEMALE,63,Positive,Positive,Negative,NA
+TCGA-A2-A1G0,FEMALE,49,Positive,Positive,Negative,NA
+TCGA-A2-A1G1,FEMALE,85,Negative,Negative,Positive,NA
+TCGA-A2-A1G4,FEMALE,71,Positive,Positive,Negative,NA
+TCGA-A2-A1G6,FEMALE,50,Negative,Negative,Negative,NA
+TCGA-A2-A259,FEMALE,70,Positive,Positive,Negative,NA
+TCGA-A2-A25A,FEMALE,44,Positive,Positive,Negative,NA
+TCGA-A2-A25B,FEMALE,39,Positive,Positive,Negative,NA
+TCGA-A2-A25C,FEMALE,50,Positive,Positive,Negative,NA
+TCGA-A2-A25D,FEMALE,90,Positive,Negative,Negative,NA
+TCGA-A2-A25E,FEMALE,34,Positive,Positive,Equivocal,NA
+TCGA-A2-A25F,FEMALE,66,Negative,Positive,Negative,NA
+TCGA-A7-A26F,FEMALE,55,Negative,Negative,Negative,NA
+TCGA-A7-A26G,FEMALE,50,Negative,Negative,Negative,NA
+TCGA-A7-A26H,FEMALE,72,Positive,Negative,Positive,NA
+TCGA-A7-A26I,FEMALE,65,Negative,Negative,Negative,NA
+TCGA-A7-A26J,FEMALE,49,Positive,Positive,Negative,NA
+TCGA-A8-A08S,FEMALE,71,Positive,Positive,Positive,NA
+TCGA-A8-A09E,FEMALE,73,Positive,Positive,Equivocal,NA
+TCGA-A8-A09K,FEMALE,68,Positive,Positive,Negative,NA
+TCGA-AC-A23C,FEMALE,62,Positive,Positive,Positive,NA
+TCGA-AC-A23E,FEMALE,50,Positive,Positive,Negative,NA
+TCGA-AC-A23H,FEMALE,90,Positive,Negative,Positive,NA
+TCGA-AO-A1KR,FEMALE,51,Negative,Negative,NA,NA
+TCGA-AQ-A1H2,FEMALE,84,Positive,Positive,Positive,NA
+TCGA-AQ-A1H3,FEMALE,49,Positive,Positive,Negative,NA
+TCGA-AR-A24H,FEMALE,65,Positive,Positive,Negative,NA
+TCGA-AR-A24K,FEMALE,46,Positive,Positive,Negative,NA
+TCGA-AR-A24L,FEMALE,26,Positive,Positive,Negative,NA
+TCGA-AR-A24M,FEMALE,38,Positive,Positive,Negative,NA
+TCGA-AR-A24N,FEMALE,54,Positive,Positive,Negative,NA
+TCGA-AR-A24O,FEMALE,43,Positive,Positive,Negative,NA
+TCGA-AR-A24P,FEMALE,47,Positive,Positive,Negative,NA
+TCGA-AR-A24Q,FEMALE,49,Positive,Negative,Negative,NA
+TCGA-AR-A24R,FEMALE,45,Positive,Positive,Negative,NA
+TCGA-AR-A24S,FEMALE,61,Positive,Positive,Negative,NA
+TCGA-AR-A24T,FEMALE,46,Positive,Positive,Negative,NA
+TCGA-AR-A24U,FEMALE,47,Negative,Negative,Positive,NA
+TCGA-AR-A24V,FEMALE,52,Positive,Positive,Negative,NA
+TCGA-AR-A24X,FEMALE,52,Positive,Positive,Negative,NA
+TCGA-AR-A24Z,FEMALE,57,Positive,Positive,Negative,NA
+TCGA-AR-A250,FEMALE,58,Positive,Negative,Positive,NA
+TCGA-AR-A251,FEMALE,51,Positive,Negative,Negative,NA
+TCGA-AR-A252,FEMALE,50,Positive,Positive,Negative,NA
+TCGA-AR-A254,FEMALE,50,Positive,Positive,Positive,NA
+TCGA-AR-A255,FEMALE,62,Positive,Positive,Positive,NA
+TCGA-BH-A0B2,FEMALE,43,Positive,Positive,Negative,NA
+TCGA-BH-A0DV,FEMALE,54,Positive,Positive,Negative,NA
+TCGA-BH-A201,FEMALE,64,Positive,Positive,NA,NA
+TCGA-BH-A202,FEMALE,60,Positive,Positive,NA,NA
+TCGA-BH-A28Q,FEMALE,46,Positive,Positive,NA,NA
+TCGA-C8-A1HE,FEMALE,59,Positive,Positive,Negative,NA
+TCGA-C8-A1HJ,FEMALE,53,Negative,Negative,Negative,NA
+TCGA-C8-A1HK,FEMALE,53,Negative,Negative,Positive,NA
+TCGA-C8-A1HO,FEMALE,34,Positive,Positive,Negative,NA
+TCGA-C8-A26V,FEMALE,47,Positive,Positive,Negative,NA
+TCGA-C8-A26W,FEMALE,58,Positive,Positive,Positive,NA
+TCGA-C8-A26X,FEMALE,58,Negative,Negative,Negative,NA
+TCGA-C8-A26Y,FEMALE,90,Negative,Negative,Negative,NA
+TCGA-C8-A26Z,FEMALE,59,Positive,Positive,Negative,NA
+TCGA-C8-A273,FEMALE,29,Positive,Positive,Negative,NA
+TCGA-C8-A274,FEMALE,63,Positive,Positive,Negative,NA
+TCGA-C8-A275,FEMALE,56,Not Performed,Not Performed,Positive,NA
+TCGA-C8-A278,FEMALE,61,Negative,Negative,Positive,NA
+TCGA-C8-A27A,FEMALE,48,Positive,Positive,Negative,NA
+TCGA-C8-A27B,FEMALE,48,Negative,Negative,Negative,NA
+TCGA-D8-A146,FEMALE,57,Positive,Positive,Negative,NA
+TCGA-D8-A1J9,FEMALE,48,Positive,Negative,Positive,NA
+TCGA-D8-A1JA,FEMALE,60,Negative,Negative,Positive,NA
+TCGA-D8-A1JB,FEMALE,54,Positive,Positive,Positive,NA
+TCGA-D8-A1JC,FEMALE,59,Positive,Positive,Negative,NA
+TCGA-D8-A1JD,FEMALE,41,Positive,Positive,Negative,NA
+TCGA-D8-A1JE,FEMALE,62,Positive,Positive,Negative,NA
+TCGA-D8-A1JI,FEMALE,54,Positive,Positive,Negative,NA
+TCGA-D8-A1JJ,FEMALE,54,Positive,Positive,Negative,NA
+TCGA-D8-A1JK,FEMALE,90,Negative,Positive,Negative,NA
+TCGA-D8-A1JL,FEMALE,72,Negative,Negative,Negative,NA
+TCGA-D8-A1JM,FEMALE,59,Positive,Negative,Negative,NA
+TCGA-D8-A1JN,FEMALE,80,Positive,Positive,Negative,NA
+TCGA-D8-A1JP,FEMALE,73,Positive,Positive,Negative,NA
+TCGA-D8-A1X5,FEMALE,81,Positive,Positive,Positive,NA
+TCGA-D8-A1X6,FEMALE,80,Positive,Positive,Negative,NA
+TCGA-D8-A1X7,FEMALE,40,Positive,Positive,Negative,NA
+TCGA-D8-A1X8,FEMALE,62,Positive,Indeterminate,Negative,NA
+TCGA-D8-A1X9,FEMALE,66,Positive,Positive,Negative,NA
+TCGA-D8-A1XA,FEMALE,64,Positive,Positive,Negative,NA
+TCGA-D8-A1XB,FEMALE,62,Positive,Positive,Negative,NA
+TCGA-D8-A1XC,FEMALE,85,Positive,Positive,Negative,NA
+TCGA-D8-A1XD,FEMALE,36,Positive,Positive,Negative,NA
+TCGA-D8-A1XF,FEMALE,45,Positive,Positive,Negative,NA
+TCGA-D8-A1XG,FEMALE,86,Positive,Negative,Negative,NA
+TCGA-D8-A1XJ,FEMALE,76,Positive,Positive,Positive,NA
+TCGA-D8-A1XK,FEMALE,55,Negative,Negative,Negative,NA
+TCGA-D8-A1XL,FEMALE,34,Positive,Positive,Negative,NA
+TCGA-D8-A1XM,FEMALE,57,Positive,Positive,Negative,NA
+TCGA-D8-A1XQ,FEMALE,69,Negative,Negative,Negative,NA
+TCGA-D8-A1XR,FEMALE,56,Positive,Positive,Negative,NA
+TCGA-D8-A1XU,FEMALE,56,Positive,Positive,Negative,NA
+TCGA-D8-A1XV,FEMALE,84,Positive,Positive,Negative,NA
+TCGA-D8-A1XW,FEMALE,53,Negative,Positive,Negative,NA
+TCGA-D8-A1XY,FEMALE,74,Positive,Positive,Positive,NA
+TCGA-D8-A1XZ,FEMALE,81,Positive,Negative,Negative,NA
+TCGA-D8-A1Y0,FEMALE,65,Positive,Positive,Negative,NA
+TCGA-D8-A1Y1,FEMALE,80,Positive,Positive,Negative,NA
+TCGA-D8-A1Y2,FEMALE,71,Positive,Positive,Negative,NA
+TCGA-D8-A1Y3,FEMALE,61,Positive,Positive,Negative,NA
+TCGA-D8-A27E,FEMALE,66,Positive,Positive,Negative,NA
+TCGA-D8-A27F,FEMALE,40,Negative,Negative,Negative,NA
+TCGA-D8-A27G,FEMALE,75,Positive,Positive,Negative,NA
+TCGA-D8-A27H,FEMALE,72,Negative,Negative,Negative,NA
+TCGA-D8-A27I,FEMALE,58,Positive,Positive,Negative,NA
+TCGA-D8-A27K,FEMALE,47,Positive,Positive,Negative,NA
+TCGA-D8-A27L,FEMALE,49,Positive,Positive,Negative,NA
+TCGA-D8-A27M,FEMALE,59,Negative,Negative,Negative,NA
+TCGA-D8-A27N,FEMALE,36,Positive,Positive,Positive,NA
+TCGA-D8-A27P,FEMALE,64,Positive,Positive,Negative,NA
+TCGA-D8-A27R,FEMALE,41,Positive,Positive,Negative,NA
+TCGA-D8-A27T,FEMALE,53,Positive,Positive,Negative,NA
+TCGA-D8-A27V,FEMALE,62,Positive,Positive,Negative,NA
+TCGA-D8-A27W,FEMALE,55,Positive,Positive,Positive,NA
+TCGA-E2-A1IE,FEMALE,61,Positive,Positive,Negative,NA
+TCGA-E2-A1IF,FEMALE,74,Positive,Positive,Negative,NA
+TCGA-E2-A1IG,FEMALE,45,Positive,Positive,Not Available,NA
+TCGA-E2-A1IH,FEMALE,80,Positive,Positive,Negative,NA
+TCGA-E2-A1II,FEMALE,51,Negative,Positive,Negative,NA
+TCGA-E2-A1IJ,FEMALE,57,Positive,Positive,Negative,NA
+TCGA-E2-A1IK,FEMALE,71,Positive,Positive,Negative,NA
+TCGA-E2-A1IL,FEMALE,78,Positive,Positive,Negative,NA
+TCGA-E2-A1IN,FEMALE,60,Positive,Positive,Negative,NA
+TCGA-E2-A1IO,FEMALE,37,Positive,Positive,Negative,NA
+TCGA-E2-A1IP,FEMALE,42,Positive,Negative,Negative,NA
+TCGA-E2-A1IU,FEMALE,60,Positive,Positive,Negative,NA
+TCGA-E2-A1L6,FEMALE,44,Positive,Positive,Negative,NA
+TCGA-E2-A1L7,FEMALE,40,Negative,Negative,Negative,NA
+TCGA-E2-A1L8,FEMALE,52,Positive,Positive,Negative,NA
+TCGA-E2-A1L9,FEMALE,40,Positive,Positive,Negative,NA
+TCGA-E2-A1LA,FEMALE,59,Positive,Positive,Negative,NA
+TCGA-E2-A1LB,FEMALE,41,Negative,Negative,Positive,NA
+TCGA-E2-A1LG,FEMALE,50,Negative,Negative,Negative,NA
+TCGA-E2-A1LH,FEMALE,59,Negative,Negative,Negative,NA
+TCGA-E2-A1LI,FEMALE,57,Negative,Negative,Negative,NA
+TCGA-E2-A1LL,FEMALE,73,Negative,Negative,Negative,NA
+TCGA-E2-A1LS,FEMALE,46,Negative,Negative,Negative,NA
+TCGA-E9-A1N3,FEMALE,70,Not Performed,Not Performed,Negative,NA
+TCGA-E9-A1N4,FEMALE,41,Positive,Positive,Negative,NA
+TCGA-E9-A1N5,FEMALE,45,Positive,Positive,Negative,NA
+TCGA-E9-A1N6,FEMALE,52,Positive,Positive,Positive,NA
+TCGA-E9-A1N8,FEMALE,48,Negative,Not Performed,Negative,NA
+TCGA-E9-A1N9,FEMALE,58,Negative,Positive,Negative,NA
+TCGA-E9-A1NA,FEMALE,58,Positive,Positive,Negative,NA
+TCGA-E9-A1NC,FEMALE,61,Negative,Positive,Negative,NA
+TCGA-E9-A1ND,FEMALE,75,Negative,Negative,Negative,NA
+TCGA-E9-A1NE,FEMALE,28,Positive,Positive,Negative,NA
+TCGA-E9-A1NF,FEMALE,60,Positive,Positive,Negative,NA
+TCGA-E9-A1NG,FEMALE,62,Positive,Positive,Negative,NA
+TCGA-E9-A1NH,FEMALE,71,Positive,Positive,Negative,NA
+TCGA-E9-A1NI,FEMALE,51,Positive,Positive,Negative,NA
+TCGA-E9-A1QZ,FEMALE,61,Not Performed,Not Performed,Negative,NA
+TCGA-E9-A1R0,FEMALE,58,Not Performed,Not Performed,Negative,NA
+TCGA-E9-A1R2,FEMALE,51,Positive,Negative,Negative,NA
+TCGA-E9-A1R3,FEMALE,70,Not Performed,Not Performed,Negative,NA
+TCGA-E9-A1R4,FEMALE,66,Not Performed,Not Performed,Negative,NA
+TCGA-E9-A1R5,FEMALE,63,Not Performed,Not Performed,Negative,NA
+TCGA-E9-A1R6,FEMALE,63,Not Performed,Not Performed,Negative,NA
+TCGA-E9-A1R7,FEMALE,64,Not Performed,Not Performed,Negative,NA
+TCGA-E9-A1RA,FEMALE,48,Not Performed,Not Performed,Negative,NA
+TCGA-E9-A1RB,FEMALE,40,Not Performed,Not Performed,Negative,NA
+TCGA-E9-A1RC,FEMALE,56,Not Performed,Not Performed,Negative,NA
+TCGA-E9-A1RD,FEMALE,67,Not Performed,Not Performed,Negative,NA
+TCGA-E9-A1RE,FEMALE,74,Not Performed,Not Performed,Negative,NA
+TCGA-E9-A1RF,FEMALE,68,Not Performed,Not Performed,Negative,NA
+TCGA-E9-A1RG,FEMALE,62,Not Performed,Not Performed,Negative,NA
+TCGA-E9-A1RH,FEMALE,63,Not Performed,Not Performed,Negative,NA
+TCGA-E9-A1RI,FEMALE,43,Not Performed,Not Performed,Not Available,NA
+TCGA-E9-A226,FEMALE,45,Not Performed,Not Performed,Negative,NA
+TCGA-E9-A227,FEMALE,42,Positive,Positive,Negative,NA
+TCGA-E9-A228,FEMALE,58,Not Performed,Not Performed,Positive,NA
+TCGA-E9-A229,FEMALE,37,Not Performed,Not Performed,Negative,NA
+TCGA-E9-A22A,FEMALE,74,Positive,Negative,Negative,NA
+TCGA-E9-A22B,FEMALE,71,Positive,Negative,Negative,NA
+TCGA-E9-A22D,FEMALE,38,Positive,Positive,Positive,NA
+TCGA-E9-A22E,FEMALE,56,Positive,Positive,Negative,NA
+TCGA-E9-A22G,FEMALE,47,Negative,Negative,Negative,NA
+TCGA-E9-A22H,FEMALE,42,Positive,Positive,Negative,NA
+TCGA-E9-A243,FEMALE,52,Not Performed,Not Performed,Negative,NA
+TCGA-E9-A244,FEMALE,54,Not Performed,Not Performed,Negative,NA
+TCGA-E9-A245,FEMALE,47,Not Performed,Not Performed,Negative,NA
+TCGA-E9-A247,FEMALE,59,Not Performed,Not Performed,Negative,NA
+TCGA-E9-A248,FEMALE,51,Not Performed,Not Performed,Negative,NA
+TCGA-E9-A249,FEMALE,45,Not Performed,Not Performed,Negative,NA
+TCGA-E9-A24A,FEMALE,69,Not Performed,Not Performed,Negative,NA
+TCGA-EW-A1IW,FEMALE,80,Positive,Positive,Positive,NA
+TCGA-EW-A1IX,FEMALE,48,Positive,Positive,Negative,NA
+TCGA-EW-A1IY,FEMALE,38,Positive,Positive,Negative,NA
+TCGA-EW-A1IZ,FEMALE,53,Positive,Positive,Negative,NA
+TCGA-EW-A1J1,FEMALE,38,Positive,Positive,Negative,NA
+TCGA-EW-A1J2,FEMALE,50,Positive,Positive,Negative,NA
+TCGA-EW-A1J3,FEMALE,61,Positive,Positive,Positive,NA
+TCGA-EW-A1J5,FEMALE,59,Positive,Positive,Negative,NA
+TCGA-EW-A1J6,FEMALE,70,Positive,Positive,Negative,NA
+TCGA-EW-A1OV,FEMALE,56,Negative,Negative,Negative,NA
+TCGA-EW-A1OW,FEMALE,58,Negative,Negative,Negative,NA
+TCGA-EW-A1OX,FEMALE,43,Positive,Positive,Negative,NA
+TCGA-EW-A1OY,FEMALE,63,Positive,Positive,Negative,NA
+TCGA-EW-A1OZ,FEMALE,56,Positive,Negative,Positive,NA
+TCGA-EW-A1P0,FEMALE,55,Positive,Negative,Negative,NA
+TCGA-EW-A1P1,FEMALE,68,Negative,Negative,Negative,NA
+TCGA-EW-A1P3,FEMALE,48,Positive,Positive,Negative,NA
+TCGA-EW-A1P4,FEMALE,43,Negative,Negative,Negative,NA
+TCGA-EW-A1P5,FEMALE,77,Positive,Positive,Negative,NA
+TCGA-EW-A1P6,FEMALE,64,Positive,Positive,Negative,NA
+TCGA-EW-A1P7,FEMALE,59,Negative,Negative,Negative,NA
+TCGA-EW-A1PA,FEMALE,59,Positive,Positive,Negative,NA
+TCGA-EW-A1PB,FEMALE,70,Negative,Negative,Negative,NA
+TCGA-EW-A1PD,MALE,61,Positive,Positive,Positive,NA
+TCGA-EW-A1PE,FEMALE,56,Positive,Positive,Negative,NA
+TCGA-EW-A1PF,FEMALE,50,Positive,Positive,Negative,NA
+TCGA-EW-A1PG,FEMALE,53,Positive,Positive,Negative,NA
+TCGA-EW-A1PH,FEMALE,52,Negative,Negative,Not Available,NA
+TCGA-EW-A2FS,FEMALE,41,Positive,Negative,NA,NA
+TCGA-EW-A2FV,FEMALE,39,Positive,Positive,NA,NA
+TCGA-EW-A2FW,FEMALE,52,Positive,Positive,NA,NA
+TCGA-GM-A2DA,FEMALE,46,Positive,Positive,NA,NA
+TCGA-GM-A2DB,FEMALE,62,Negative,Negative,NA,NA
+TCGA-GM-A2DC,FEMALE,57,Positive,Positive,NA,NA
+TCGA-GM-A2DD,FEMALE,53,Negative,Negative,NA,NA
+TCGA-GM-A2DF,FEMALE,53,Negative,Negative,NA,NA
+TCGA-GM-A2DH,FEMALE,58,Negative,Negative,NA,NA
+TCGA-GM-A2DI,FEMALE,52,Negative,Negative,NA,NA
+TCGA-GM-A2DK,FEMALE,58,Positive,Negative,NA,NA
+TCGA-GM-A2DL,FEMALE,50,Positive,Positive,NA,NA
+TCGA-GM-A2DM,FEMALE,57,Positive,Positive,NA,NA
+TCGA-GM-A2DN,FEMALE,58,Positive,Positive,NA,NA
+TCGA-GM-A2DO,FEMALE,54,Positive,Positive,NA,NA
+TCGA-AR-A24W,NA,NA,NA,NA,NA,NA
+TCGA-AC-A2B8,NA,NA,NA,NA,NA,NA
+TCGA-AC-A2FF,NA,NA,NA,NA,NA,NA
+TCGA-AC-A2FB,NA,NA,NA,NA,NA,NA
+TCGA-AC-A2FG,NA,NA,NA,NA,NA,NA
+TCGA-GI-A2C8,NA,NA,NA,NA,NA,NA
+TCGA-E9-A295,NA,NA,NA,NA,NA,NA

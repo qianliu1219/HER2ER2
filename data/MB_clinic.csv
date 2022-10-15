@@ -1,0 +1,105 @@
+"","age_at_diagnosis","Pam50Subtype","last_follow_up_status","menopausal_status_inferred","group","grade","size","stage","lymph_nodes_positive","lymph_nodes_removed","NPI","histological_type","ER_IHC_status","HER2_IHC_status","HER2_SNP6_state","cellularity","P53_mutation_status","P53_mutation_type","P53_mutation_details","Pam50Subtype.1","IntClustMemb","Treatment","Site","Genefu","ER.Expr","Her2.Expr","PR.Expr","T"
+"MB.0046",83.02,"LumA","d-o.c.","post","4","3","36","2","24","27",6.07,"IDC","pos","null","GAIN","high",NA,NA,NA,NA,NA,"HT/RT",1,NA,"+","+","+",424
+"MB.0048",51.46,"Her2","a","post","4","2","25","2","1","13",4.05,"IDC+ILC","pos","null","GAIN","low",NA,NA,NA,NA,NA,"CT/HT/RT",1,NA,"+","+","+",1594
+"MB.0120",72.1,"LumB","d-o.c.","post","4","3","26","2","1","14",5.05,"IDC","pos","3","GAIN","moderate","WT",NA,NA,"LumB",9,"HT/RT",1,"ER+/HER2- High Prolif","+","+","-",872
+"MB.0130",56.75,"LumA","a","post","4","1","17","1","0","16",2.03,"IDC","pos","null","GAIN","low",NA,NA,NA,NA,NA,"HT",1,NA,"+","+","-",1870
+"MB.0165",53,"LumA",NA,"null","4","3","52","3","22","22",6.1,"IDC","pos","3","GAIN","moderate","WT",NA,NA,"LumA",5,"CT/HT/RT",1,"HER2+","+","+","-",1429
+"MB.0225",59.15,"LumB","a","post","4","2","19","1","0","3",3.04,"IDC","pos","null","GAIN","moderate","WT",NA,NA,"LumB",1,"HT",1,"HER2+","+","+","-",4398
+"MB.0236",43.63,"LumA","a","post","4","3","27","2","0","7",4.05,"IDC","pos","null","GAIN","moderate","WT",NA,NA,"LumA",5,"CT/HT/RT",1,"HER2+","+","+","+",3861
+"MB.0288",55.22,"Normal","d-d.s.","post","4","2","30","2","25","27",5.06,"ILC","pos","null","GAIN","low",NA,NA,NA,NA,NA,"CT/HT",1,NA,"+","+","-",1184
+"MB.0291",51.19,"LumB","d","post","4","3","26","2","1","16",5.05,"IDC","pos","null","GAIN","moderate","WT",NA,NA,"LumB",5,"CT/HT",1,"HER2+","+","+","+",1176
+"MB.0307",41.63,"LumA","a","pre","4","3","10","2","6","15",6.02,"IDC","pos","null","GAIN","moderate","WT",NA,NA,"LumA",5,"CT/HT/RT",1,"HER2+","+","+","-",3520
+"MB.0365",76.84,"Her2","d-o.c.","post","4","2","15","1","0","10",3.03,"IDC-MUC","pos","null","GAIN","low",NA,NA,NA,NA,NA,"HT/RT",1,NA,"+","+","-",2617
+"MB.0371",78.41,"LumB","a","post","4","3","22","2","6","24",6.04,"IDC","pos","3","GAIN","moderate","WT",NA,NA,"LumB",5,"HT/RT",1,"HER2+","+","+","-",1945
+"MB.0373",63.31,"LumB","d","post","4","3","24","2","2","13",5.05,"IDC","pos","null","GAIN","high","MUT","MISSENSE","MB-AD-0373+ex7+chr17:7518306+13337T>TC+234Y>Y/H+MISSENSE+R+R","LumB",5,"HT/RT",1,"HER2+","+","+","+",810
+"MB.0381",33.65,"Her2","a","pre","4","3","21","2","0","17",4.04,"IDC","pos","3","GAIN","high",NA,NA,NA,NA,NA,"CT/HT/RT",1,NA,"+","+","-",2010
+"MB.0388",46.63,"Normal","a","pre","4","3","28","2","3","14",5.06,"IDC","pos","3","GAIN","low",NA,NA,NA,NA,NA,"CT/HT/RT",1,NA,"+","+","-",1829
+"MB.0389",46.87,"LumB","a","pre","4","3","50","3","19","21",6.1,"IDC","pos","3","GAIN","high","WT",NA,NA,"LumB",2,"CT/HT/RT",1,"HER2+","+","+","+",335
+"MB.0421",73.53,"Her2","a","post","4","3","24","2","0","16",4.05,"IDC","pos","null","GAIN","low",NA,NA,NA,NA,NA,"HT",1,NA,"+","+","+",1938
+"MB.0434",69.79,"LumB","d-d.s.","post","4","3","20","2","2","14",5.04,"IDC","pos","null","GAIN","high","WT",NA,NA,"LumB",5,"CT/HT",1,"HER2+","+","+","-",1365
+"MB.0465",87.18,"LumB","d-d.s.","post","4","3","26","2","2","13",5.05,"IDC","pos","null","GAIN","moderate","MUT","MISSENSE","MB-AD-0465+ex10+chr17:7514743+16900C>CT+337R>R/C+MISSENSE+FR+FR","LumB",5,"HT",1,"HER2+","+","+","-",858
+"MB.0484",38.72,"Her2","a","pre","4","3","22","2","3","14",5.04,"IDC","pos","3","GAIN","high",NA,NA,NA,NA,NA,"CT/HT/RT",1,NA,"+","+","+",1883
+"MB.0552",61.53,"Her2","d-d.s.","post","4","3","29","2","8","19",6.06,"IDC","pos","3","GAIN","undef",NA,NA,NA,NA,NA,"CT/HT/RT",1,NA,"+","+","-",2042
+"MB.0553",86.99,"LumA","d-o.c.","post","4","2","20","2","14","14",5.04,"IDC","pos","null","GAIN","moderate",NA,NA,NA,NA,NA,"HT/RT",1,NA,"+","+","-",2572
+"MB.0589",59.96,"LumB","a","post","4","2","35","4","25","30",5.07,"IDC","pos","null","GAIN","moderate","WT",NA,NA,"LumB",5,"HT/RT",1,"ER+/HER2- High Prolif","+","+","-",1841
+"MB.0630",38.35,"LumB","a","pre","4","3","20","1","0","2",4.04,"IDC","pos","null","GAIN","high","WT",NA,NA,"LumB",1,"CT/HT/RT",1,"ER+/HER2- High Prolif","+","+","+",342
+"MB.0652",85.12,"Her2","a","post","4","3","21","2","1","10",5.04,"IDC","pos","null","GAIN","moderate",NA,NA,NA,NA,NA,"HT",1,NA,"+","+","+",867
+"MB.0662",50.94,"Normal","a","post","4","3","14","1","0","2",4.03,"IDC","pos","null","GAIN","high","WT",NA,NA,"Normal",5,"HT/RT",1,"HER2+","+","+","+",760
+"MB.0895",79.61,"LumB","d","post","4","3","19","2","1","11",5.04,"IDC","pos","null","GAIN","high","WT",NA,NA,"LumB",5,"HT/RT",1,"HER2+","+","+","+",1293
+"MB.2626",62.54,"LumB","a","post","1","3","16","1","0","5",4.03,"IDC","pos","3","GAIN","high",NA,NA,NA,NA,NA,"HT/RT",2,NA,"+","+","+",5352
+"MB.2786",62.36,"LumA","d-d.s.","post","2","3","28","2","3","8",5.06,"IDC","pos","3","GAIN","high","WT",NA,NA,"LumA",5,"HT/RT",2,"HER2+","+","+","-",2048
+"MB.2823",35.97,"Normal","a","pre","1","3","11","1","0","5",4.02,"IDC","pos","3","GAIN",NA,NA,NA,NA,NA,NA,"HT/RT",2,NA,"+","+","+",4899
+"MB.2939",70.19,"LumB","d-o.c.","post","2","3","17","2","1","5",5.03,"IDC","pos","3","GAIN",NA,NA,NA,NA,NA,NA,"HT",2,NA,"+","+","+",3038
+"MB.2983",56.26,"LumB","a","post","2","2","15","2","1","4",4.03,"IDC-TUB","pos","null","GAIN","moderate","MUT","TRUNCATING","MB-NT-2983+ex4+chr17:7520091+11552C>CG+107Y>Y/X+TRUNCATING+R+R","LumB",5,"HT/RT",2,"HER2+","+","+","+",4749
+"MB.2984",64.04,"LumB","a","post","1","3","20","1","0","4",4.04,"IDC","pos","null","GAIN","moderate","WT",NA,NA,"LumB",9,"HT/RT",2,"HER2+","+","+","-",4733
+"MB.2994",46.7,"LumA","a","pre","2","3","18","2","1","9",5.04,"IDC","pos","2","GAIN","moderate","WT",NA,NA,"LumA",5,"HT/RT",2,"HER2+","+","+","+",4506
+"MB.3028",60.93,"LumB","d-d.s.","post","1","3","17","1","0","6",4.03,"IDC","pos","1","GAIN","high","WT",NA,NA,"LumB",9,"HT/RT",2,"ER+/HER2- High Prolif","+","+","-",1277
+"MB.3031",46.76,"Her2","d-d.s.","pre","3","3","21","2","2","4",5.04,"IDC-MED","neg","3","GAIN","high",NA,NA,NA,NA,NA,"CT/RT",2,NA,"+","+","-",1069
+"MB.3103",58.55,"LumB","d-d.s.","post","1","3","15","1","0","1",4.03,"IDC","pos","3","GAIN","high","WT",NA,NA,"LumB",5,"HT/RT",2,"HER2+","+","+","-",862
+"MB.3104",28.96,"LumA","d-d.s.","pre","1","2","20","1","0","4",3.04,"IDC","pos","1","GAIN","moderate","WT",NA,NA,"LumA",5,"RT",2,"ER+/HER2- High Prolif","+","+","-",2261
+"MB.3235",50.66,"LumB","a","pre","1","3","17","1","0","5",4.03,"IDC","pos","2","GAIN","moderate","MUT","MISSENSE","MB-NT-3235+ex7+chr17:7518264+13379C>CT+248R>R/W+MISSENSE+R+R","LumB",5,"HT/RT",2,"ER+/HER2- High Prolif","+","+","+",4535
+"MB.3272",63.53,"LumB","d-d.s.","post","2","3","20","3","6","12",6.04,"IDC","pos","3","GAIN","high","WT",NA,NA,"LumB",5,"HT/RT",2,"HER2+","+","+","+",680
+"MB.3360",48.48,"LumB","d-d.s.","pre","1","3","28","1","0","6",4.06,"IDC","pos","3","GAIN","high","MUT","MISSENSE","MB-NT-3360+ex7+chr17:7518257+13386C>CT+250P>P/L+MISSENSE+R+R","LumB",5,"HT/RT",2,"HER2+","+","+","+",803
+"MB.3361",57.31,"LumB","d-d.s.","post","1","3","16","1","0","6",4.03,"IDC","pos","2","GAIN","high","WT",NA,NA,"LumB",5,"HT/RT",2,"HER2+","+","+","-",2046
+"MB.3379",60.99,"LumA","d-o.c.","post","1","3","20","1","0","4",4.04,"IDC+ILC","pos","2","GAIN","moderate","WT",NA,NA,"LumA",5,"HT/RT",2,"HER2+","+","+","+",3415
+"MB.3382",61.26,"LumB","a","post","1","3","40","1","0","4",4.08,"IDC","pos","3","GAIN","high",NA,NA,NA,"LumB",5,"HT",2,"HER2+","+","+","-",4087
+"MB.3488",41.1,"Her2","d-d.s.","pre","3","3","50","2","0","4",4.1,"IDC","neg","3","GAIN","high","WT",NA,NA,"Her2",5,"CT/RT",2,"HER2+","+","+","-",824
+"MB.3850",65.89,"LumA",NA,"post","1","2","20","1","0","4",3.04,"IDC+ILC","pos","1","GAIN","moderate","WT",NA,NA,"LumA",4,"NONE",2,"ER+/HER2- Low Prolif","+","+","+",2169
+"MB.3852",43.56,"LumA","a","pre","1","3","23","1","0","4",4.05,"IDC","pos","1","GAIN","high","WT",NA,NA,"LumA",4,"HT/RT",2,"ER+/HER2- High Prolif","+","+","+",3331
+"MB.4270",37.85,"Her2","d-d.s.","pre","3","2","18","2","4","14",5.04,"IDC","neg","null","GAIN",NA,NA,NA,NA,NA,NA,"CT/RT",3,NA,"+","+","+",2961
+"MB.4276",55.07,"Her2","d-d.s.","post","2","2","35","0","1","9",4.07,"IDC","pos","null","GAIN","high",NA,NA,NA,"Her2",5,"HT/RT",3,"HER2+","+","+","+",3966
+"MB.4289",65.49,"Her2","d-d.s.","post","1","1","20","0","0","4",2.04,"ILC","pos","null","GAIN","moderate",NA,NA,NA,"Her2",2,"HT/RT",3,"ER+/HER2- High Prolif","+","+","-",2905
+"MB.4317",51.93,"Her2","a","post","1","2","50","2","0","10",3.1,"IDC","pos","null","GAIN","moderate",NA,NA,NA,NA,NA,"HT",3,NA,"+","+","+",5337
+"MB.4348",61.57,"Her2","d-d.s.","post","2","3","40","2","4","19",6.08,"IDC","pos","null","GAIN","moderate",NA,NA,NA,NA,NA,"HT/RT",3,NA,"+","+","-",6786
+"MB.4626",64.61,"Her2","d-d.s.","post","1","3","15","1","0","14",4.03,"IDC","pos","1","GAIN","high",NA,NA,NA,NA,NA,"RT",3,NA,"+","+","-",4290
+"MB.4644",59.13,"LumB","d-d.s.","post","2","2","23","0","1","17",4.05,"IDC","pos","3","GAIN","high",NA,NA,NA,"LumB",5,"HT",3,"HER2+","+","+","-",2700
+"MB.4688",71.17,"LumB","d-d.s.","post","2","2","45","0","4","9",5.09,"IDC","pos","3","GAIN","high",NA,NA,NA,"LumB",5,"HT/RT",3,"HER2+","+","+","+",2559
+"MB.4725",65.83,"Her2","d-d.s.","post","2","3","26","2","1","1",5.05,"IDC","pos","3","GAIN","moderate",NA,NA,NA,NA,NA,"HT",3,NA,"+","+","+",2963
+"MB.4729",75.41,"LumA","d-o.c.","post","2","3","25","0","1","8",5.05,"IDC","pos","3","GAIN","moderate",NA,NA,NA,"LumA",5,"HT/RT",3,"HER2+","+","+","-",840
+"MB.4796",53.18,"LumB","a","post","1","2","25","0","0","11",3.05,"IDC","pos","1","GAIN","high","WT",NA,NA,"LumB",5,"NONE",3,"HER2+","+","+","-",3848
+"MB.4846",63.07,"LumB","d-d.s.","post","1","2","25","2","0","4",3.05,"IDC","pos","3","GAIN","low",NA,NA,NA,NA,NA,"HT/RT",3,NA,"+","+","+",3049
+"MB.4858",74.56,"LumA","d-o.c.","post","1","3","15","0","0","12",4.03,"IDC","pos","3","GAIN","high","MUT","TRUNCATING","MB-VC-4858+ex10+chr17:7514728+16915C>CT+342R>R/X+TRUNCATING+FR+FR","LumA",5,"NONE",3,"HER2+","+","+","-",3880
+"MB.4878",79.35,"LumA","d-d.s.","post","1","2","25","0","0","6",3.05,"IDC","pos","3","GAIN","moderate","WT",NA,NA,"LumA",5,"NONE",3,"HER2+","+","+","-",674
+"MB.4908",69.87,"LumB","d-d.s.","post","2","3","40","0","3","9",5.08,"IDC","pos","3","GAIN","moderate","MUT","TRUNCATING","MB-VC-4908+ex8,9+chr17:7517622+14021C>CT+317Q>Q/X+TRUNCATING+FR+FR","LumB",5,"HT/RT",3,"HER2+","+","+","+",1437
+"MB.4930",62.43,"LumB","a","post","2","3","30","0","2","6",5.06,"IDC","pos","3","GAIN","high","MUT","MISSENSE","MB-VC-4930+ex5,6+chr17:7519254+12389T>TG+134F>F/C+MISSENSE+FR+FR","LumB",9,"HT/RT",3,"HER2+","+","+","-",1753
+"MB.5039",67.7,"LumB","d-d.s.","post","2","3","55","3","1","3",5.11,"IDC","pos","3","GAIN","high",NA,NA,NA,NA,NA,"HT/RT",3,NA,"+","+","-",1864
+"MB.5062",75.55,"LumB","a","post","2","3","20","0","1","7",5.04,"IDC","pos","3","GAIN","high",NA,NA,NA,"LumB",1,"HT/RT",3,"HER2+","+","+","-",5048
+"MB.5078",56.33,"LumB","d-d.s.","post","2","2","24","0","1","14",4.05,"IDC","pos","3","GAIN","moderate",NA,NA,NA,"LumB",5,"HT/RT",3,"HER2+","+","+","-",2613
+"MB.5147",54.61,"LumA","a","post","1","3","25","0","0","9",4.05,"IDC","pos","3","GAIN","high","WT",NA,NA,"LumA",5,"HT",3,"HER2+","+","+","-",608
+"MB.5164",48.76,"Normal","a","pre","1","3","13","1","0","8",4.03,"IDC","pos","3","GAIN","low",NA,NA,NA,NA,NA,"RT",3,NA,"+","+","+",2415
+"MB.5166",69.23,"LumB","d-d.s.","post","2","3","30","0","4","14",6.06,"IDC","pos","3","GAIN","high","MUT","MISSENSE","MB-VC-5166+ex8,9+chr17:7517824+13819G>GC+280R>R/T+MISSENSE+FR+FR","LumB",5,"HT/RT",3,"HER2+","+","+","+",2422
+"MB.5174",54.69,"Her2","d-o.c.","post","1","null","15","null","0","0",1.03,"IDC","null","null","GAIN","high",NA,NA,NA,NA,NA,"NONE",3,NA,"+","+","-",4536
+"MB.5186",42.84,"LumA","a","pre","1","null","10","1","0","12",1.02,"IDC","pos","3","GAIN","low",NA,NA,NA,NA,NA,"RT",3,NA,"+","+","+",5438
+"MB.5195",72.16,"LumA","a","post","1","3","15","0","0","11",4.03,"IDC","pos","3","GAIN","moderate","WT",NA,NA,"LumA",5,"HT/RT",3,"HER2+","+","+","+",5617
+"MB.5212",80.17,"LumB","a","post","1","3","35","0","0","14",4.07,"IDC","pos","3","GAIN","high","WT",NA,NA,"LumB",5,"HT",3,"HER2+","+","+","-",5283
+"MB.5238",46.03,"Normal","d-d.s.","pre","3","3","20","0","2","8",5.04,"IDC","neg","null","GAIN","moderate",NA,NA,NA,"Normal",5,"CT/RT",3,"HER2+","+","+","-",1324
+"MB.5266",76.83,"LumB","d-o.c.","post","1","3","30","0","0","null",4.06,"IDC","pos","null","GAIN","high",NA,NA,NA,"LumB",1,"HT",3,"ER+/HER2- High Prolif","+","+","-",2509
+"MB.5292",82.06,"LumB","d-d.s.","post","1","2","5","0","0","4",3.01,"IDC","pos","null","GAIN","moderate","WT",NA,NA,"LumB",5,"NONE",3,"ER+/HER2- High Prolif","+","+","-",1453
+"MB.5331",54.69,"LumA","d-d.s.","post","1","2","23","0","0","5",3.05,"IDC","pos","3","GAIN","moderate","WT",NA,NA,"LumA",2,"NONE",3,"HER2+","+","+","-",3724
+"MB.5332",68.93,"Her2","d-d.s.","post","2","2","18","2","1","16",4.04,"IDC","pos","null","GAIN","high",NA,NA,NA,NA,NA,"HT",3,NA,"+","+","+",2965
+"MB.5414",61.14,"LumB","d","post","2","3","25","0","1","3",5.05,"IDC","pos","null","GAIN","high","MUT","MISSENSE","MB-VC-5414+ex5,6+chr17:7518996+12647A>AT+193H>H/L+MISSENSE+FR+FR","LumB",9,"HT/RT",3,"HER2+","+","+","-",4218
+"MB.5418",64.15,"LumB","a","post","2","3","25","0","1","10",5.05,"IDC","pos","null","GAIN","high","WT",NA,NA,"LumB",5,"HT",3,"HER2+","+","+","+",2260
+"MB.5420",71.49,"Basal","a","post","1","3","20","1","0","16",4.04,"IDC","pos","null","GAIN","low",NA,NA,NA,NA,NA,"RT",3,NA,"+","+","-",3018
+"MB.5459",64.07,"LumB","d-d.s.","post","2","3","20","0","1","22",5.04,"IDC","pos","null","GAIN","moderate","WT",NA,NA,"LumB",5,"HT/RT",3,"HER2+","+","+","-",2724
+"MB.5540",76.53,"LumB","d-d.s.","post","2","3","20","0","4","4",6.04,"IDC","pos","null","GAIN","high","MUT","MISSENSE","MB-VC-5540+ex8,9+chr17:7517830+13813C>G+278P>R+MISSENSE+FR+FR","LumB",1,"HT",3,"ER+/HER2- High Prolif","+","+","-",1453
+"MB.5628",65.06,"LumB","d-d.s.","post","2","3","null","null","4","14",6,"IDC","pos","null","GAIN","high",NA,NA,NA,NA,NA,"HT/RT",3,NA,"+","+","+",1278
+"MB.6048",58.84,"Her2","d","post","1","2","25","null","0","9",3.05,"IDC","pos","null","GAIN","high",NA,NA,NA,NA,NA,"HT",5,NA,"+","+","+",5046
+"MB.6049",62.29,"Her2","a","post","1","2","40","null","0","17",3.08,"IDC","pos","null","GAIN","high",NA,NA,NA,NA,NA,"NONE",5,NA,"+","+","+",6201
+"MB.6082",46.47,"Normal","d-d.s.","pre","3","2","70","null","8","17",5.14,"IDC","neg","null","NEUT","low",NA,NA,NA,NA,NA,"CT",5,NA,"+","+","-",3075
+"MB.6105",78.93,"Her2","a","post","1","1","13","null","0","5",2.03,"IDC","pos","null","NEUT","moderate",NA,NA,NA,NA,NA,"NONE",5,NA,"+","+","+",3391
+"MB.6113",39.41,"Her2","d-d.s.","pre","3","2","20","2","2","12",4.04,"INVASIVE TUMOUR","neg","null","GAIN","high",NA,NA,NA,NA,NA,"CT",5,NA,"+","+","-",3737
+"MB.6114",70.76,"Her2","a","post","3","2","28","null","10","13",5.06,"IDC","neg","null","GAIN","high",NA,NA,NA,NA,NA,"CT",5,NA,"+","+","+",2005
+"MB.6116",66.13,"Her2","a","post","1","2","30","null","0","12",3.06,"IDC","neg","null","GAIN","high",NA,NA,NA,NA,NA,"NONE",5,NA,"+","+","+",3610
+"MB.6157",86.29,"Basal","d-d.s.","post","2","3","35","null","14","15",6.07,"IDC","pos","null","GAIN","moderate",NA,NA,NA,NA,NA,"HT/RT",5,NA,"+","+","-",476
+"MB.6314",68.57,"Her2","a","post","1","2","14","null","0","2",3.03,"IDC","pos","null","GAIN","high",NA,NA,NA,NA,NA,"NONE",5,NA,"+","+","-",2570
+"MB.6334",60.12,"Her2","a","post","1","3","21","null","0","18",4.04,"IDC","neg","null","GAIN","high",NA,NA,NA,NA,NA,"HT",5,NA,"+","+","+",1737
+"MB.7001",72.71,"LumA","a","post","1","2","10","null","0","13",3.02,"IDC+ILC","pos","3","GAIN","high",NA,NA,NA,NA,NA,"HT/RT",4,NA,"+","+","-",1940
+"MB.7046",76.02,"Her2","a","post","1","2","23","null","0","16",3.05,"IDC","pos","null","GAIN","moderate",NA,NA,NA,NA,NA,"HT/RT",4,NA,"+","+","-",2404
+"MB.7050",64.99,"Her2","d-d.s.","post","2","2","22.5","null","1","29",4.05,"IDC","pos","null","GAIN","moderate",NA,NA,NA,NA,NA,"CT/HT/RT",4,NA,"+","+","+",1954
+"MB.7068",58.95,"Her2","a","post","1","3","26","null","0","21",4.05,"IDC","pos","null","GAIN","high",NA,NA,NA,NA,NA,"HT/RT",4,NA,"+","+","-",2954
+"MB.7088",72.05,"Her2","a","post","2","3","25","null","2","29",5.05,"IDC","pos","null","GAIN","moderate",NA,NA,NA,NA,NA,"HT",4,NA,"+","+","-",3706
+"MB.7115",80.56,"Her2","a","post","1","3","70","null","0","35",4.14,"IDC","null","3","GAIN","high",NA,NA,NA,NA,NA,"HT/RT",4,NA,"+","+","-",3559
+"MB.7128",71.05,"LumA","d-o.c.","post","1","2","21","null","0","15",3.04,"IDC","pos","null","GAIN","high",NA,NA,NA,NA,NA,"HT",4,NA,"+","+","+",1808
+"MB.7260",52.41,"Her2","a","post","3","3","24.15","null","7","43",6.05,"IDC","neg","null","GAIN","moderate",NA,NA,NA,NA,NA,"CT/RT",4,NA,"+","+","-",935
+"MB.7287",63.09,"LumB","d-d.s.","post","2","3","30","null","10","25",6.06,"IDC","pos","null","GAIN","moderate",NA,NA,NA,NA,NA,"HT",4,NA,"+","+","+",2909
+"MB.7296",42.88,"LumB","d-d.s.","pre","2","3","20","null","1","39",5.04,"IDC","pos","null","GAIN","high",NA,NA,NA,NA,NA,"RT",4,NA,"+","+","-",1342
